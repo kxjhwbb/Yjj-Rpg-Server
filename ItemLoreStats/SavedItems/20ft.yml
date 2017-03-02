@@ -1,0 +1,29 @@
+Item:
+  ==: org.bukkit.inventory.ItemStack
+  type: GOLD_HELMET
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §d和谐的毁灭者战盔
+    lore:
+    - §6品级：§d粉装
+    - §6[基础属性]
+    - §d●防御力:+6%
+    - §6[附加属性]
+    - §d●速度提升:+4%
+    - §d●闪避:+4%
+    - §d●生命回复:+3%
+    - §d●生命:+24
+    - §d●伤害反弹:+5%
+    - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+    - §d战争将毁灭人类的一切希望
+    - §d和谐才是最终的归宿
+    - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+    - §6[女神眷顾]
+    - '§a§e§f§a耐久: 无限'
+    - ''
+    - §e[§a无§6上§b神§d武§e]
+    - §a无§e等§b级§c限§d制
+    - §4[提示]装备遗失概不负责，请妥善保管
+    enchants:
+      ARROW_INFINITE: 1

@@ -1,0 +1,243 @@
+location:
+  ==: com.mtihc.minecraft.treasurechest.v8.core.TreasureChest
+  container:
+    ==: com.mtihc.minecraft.treasurechest.v8.core.BlockInventory
+    world: world
+    coords:
+      ==: Vector
+      x: 796.0
+      y: 5.0
+      z: -143.0
+    type: CHEST
+    size: 27
+    contents:
+      item0:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: WOOD_SWORD
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §d不屈之志●哨兵侍剑
+            lore:
+            - §6品级：§d粉装
+            - §a装备分阶顺序：白》绿》蓝》紫》粉
+            - §6[基础属性]
+            - §a●攻击力：+5-10
+            - §6[附加属性]
+            - §d暴击几率：+10%
+            - §d暴击伤害：+30%
+            - §d烈焰攻击：+5%
+            - §d寒冰攻击：+5%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §d§l苍穹神王赐予新生的佩剑
+            - §d§l专属职业：无限制
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[荣耀祝福]
+            - §a等级： 无限制
+            - '§a§e§f§a耐久: 200/500'
+            enchants:
+              DURABILITY: 5
+      item1:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            display-name: 地下勇者简介说明
+            lore:
+            - §a由于服务器为防止玩家误丢装备
+            - §a我们添加了禁止丢弃物品的保护插件
+            - §6如果你发现你背包装不下了
+            - §6请找到垃圾桶的牌子，右键点击牌子
+            - §6把不要的垃圾放进去他就会消失
+            - §a--------------------------------
+            - §a所有副本掉落，绿，蓝，紫，粉装，紫，粉在精英和BOSS掉落！
+            - §a所有装备均为无限耐久属性，新手装备除外！
+            - §6地下勇者等级主要由主线任务获得。BOSS少量获得
+            - §6要升级还是做任务的好，千万不要弄丢任务卡。
+            title: wo
+            author: Max_Joine
+            pages:
+            - ''
+      item2:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 8233
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §6暴走药水
+            lore:
+            - §e牛头部落制作的狂暴药水
+            - §6使用后增加狂暴效果
+            - '§6药效：:狂暴3分钟 '
+            - §6狂暴效果:伤害附加260%
+            - §a出门旅行，打家劫舍，必备之良品
+            custom-effects:
+            - ==: PotionEffect
+              effect: 5
+              duration: 3600
+              amplifier: 1
+              ambient: false
+      item3:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a新手任务卡
+            lore:
+            - §a携带此物品前去找地下物语接引人
+            - §6开启你人生中第一次冒险
+            - §a去吧，小伙子，你可以的
+      item4:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER_HELMET
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §d不屈之志●哨兵头盔
+            lore:
+            - §6●品级：§d粉装
+            - §a装备分阶顺序：白》绿》蓝》紫》粉
+            - §6[基础属性]
+            - §e●防御力：+5%
+            - §6[附加属性]
+            - §d●闪避：+5%
+            - §d●生命回复：+2%
+            - §d●速度提升：+1%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §d苍穹神王赐予新生的护甲
+            - §d专属职业：无限制
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[荣耀祝福]
+            - §a等级：无限制
+            - '§a§e§f§a耐久: 200/500'
+            enchants:
+              DURABILITY: 5
+      item5:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER_CHESTPLATE
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §d不屈之志●哨兵皮甲
+            lore:
+            - §6●品级：§d粉装
+            - §a装备分阶顺序：白》绿》蓝》紫》粉
+            - §6[基础属性]
+            - §e●防御力：+5%
+            - §6[附加属性]
+            - §d●闪避：+5%
+            - §d●生命回复：+2%
+            - §d●速度提升：+1%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §d苍穹神王赐予新生的护甲
+            - §d专属职业：无限制
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[荣耀祝福]
+            - §a等级：无限制
+            - '§a§e§f§a耐久: 500/500'
+            enchants:
+              DURABILITY: 5
+      item6:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER_LEGGINGS
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §d不屈之志●哨兵皮裤
+            lore:
+            - §6●品级：§d粉装
+            - §a装备分阶顺序：白》绿》蓝》紫》粉
+            - §6[基础属性]
+            - §e●防御力：+5%
+            - §6[附加属性]
+            - §d●闪避：+5%
+            - §d●生命回复：+2%
+            - §d●速度提升：+1%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §d苍穹神王赐予新生的护甲
+            - §d专属职业：无限制
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[荣耀祝福]
+            - §a等级：无限制
+            - '§a§e§f§a耐久: 500/500'
+            enchants:
+              DURABILITY: 5
+      item7:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER_BOOTS
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §d不屈之志●哨兵皮靴
+            lore:
+            - §6●品级：§d粉装
+            - §a装备分阶顺序：白》绿》蓝》紫》粉
+            - §6[基础属性]
+            - §e●防御力：+5%
+            - §6[附加属性]
+            - §d●闪避：+5%
+            - §d●生命回复：+2%
+            - §d●速度提升：+1%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §d苍穹神王赐予新生的护甲
+            - §d专属职业：无限制
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[荣耀祝福]
+            - §a等级：无限制
+            - '§a§e§f§a耐久: 500/500'
+            enchants:
+              DURABILITY: 5
+      item8:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          amount: 25
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item9:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: WATCH
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a地下勇者快捷菜单
+            lore:
+            - §a右键使用
+            - ''
+  messages:
+    FOUND_ALREADY: You have already looted this treasure...
+    FOUND: You have found treasure!
+    UNLIMITED: Take as much as you want!
+  ranks: []
+  unlimited: false
+  random: 0
+  forget-time: 0
+  ignore-protection: false
+  rewards: {}

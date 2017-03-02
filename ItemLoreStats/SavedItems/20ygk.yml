@@ -1,0 +1,27 @@
+Item:
+  ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §4暴风雨神护腿-远古神装
+    lore:
+    - §6品级：§4远古神装
+    - §6[基础属性]
+    - §4●防御力:+12%
+    - §6[附加属性]
+    - §4●速度提升:+4%
+    - §4●闪避:+5%
+    - §4●生命回复:+3%
+    - §4●生命:+55
+    - §4●伤害反弹:+5%
+    - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+    - §4远古神装
+    - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+    - §6[女神眷顾]
+    - '§a§e§f§a耐久: 无限'
+    - §e[§4远古赐福]
+    - §a无§e等§b级§c限§d制
+    - §4[提示]装备遗失概不负责，请妥善保管
+    enchants:
+      ARROW_INFINITE: 1

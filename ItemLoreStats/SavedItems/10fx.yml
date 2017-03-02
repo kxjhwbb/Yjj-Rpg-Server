@@ -1,0 +1,28 @@
+Item:
+  ==: org.bukkit.inventory.ItemStack
+  type: LEATHER_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: LEATHER_ARMOR
+    display-name: §d闪耀的阿隆戴特战靴
+    lore:
+    - §6品级：§d粉装
+    - §6[基础属性]
+    - §d●防御力:+5%
+    - §6[附加属性]
+    - §d●速度提升:+4%
+    - §d●闪避:+3%
+    - §d●生命回复:+3%
+    - §d●生命:+20
+    - §d●伤害反弹:+3%
+    - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+    - §d室外桃源的镇族至宝
+    - §d无意间被狼王偷走，没想到便宜了你
+    - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+    - §6[女神眷顾]
+    - '§a§e§f§a耐久: 无限'
+    - §e[§a无§6上§b神§d武§e]
+    - §a无§e等§b级§c限§d制
+    - §4[提示]装备遗失概不负责，请妥善保管
+    enchants:
+      ARROW_INFINITE: 1

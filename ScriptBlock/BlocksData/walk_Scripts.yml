@@ -1,0 +1,54 @@
+world:
+    816,3,-144:
+    - Author:Max_Joine/Builder
+    - '@bypass /tppos 856 5 -144'
+    - '@player 鼠标点击网站 http://www.mcrmb.com/cz/4445 即可打开赞助网站'
+    - '@player 输入/赞助 即可打开赞助商店'
+    864,3,-148:
+    - Author:Max_Joine/Builder
+    - '@bypass /tppos 954 41 -1028'
+    787,3,-169:
+    - Author:chendian/Builder
+    - '@bypass /market listings'
+    793,3,-169:
+    - Author:chendian/Builder
+    - '@bypass /market mail'
+    -2013,3,-15633:
+    - Author:Max_Joine/Builder
+    - '@bypass /tppos 793 6 -143'
+    -2011,3,-15633:
+    - Author:Max_Joine/Builder
+    - '@bypass /tppos 793 6 -143'
+    -2015,3,-15633:
+    - Author:Max_Joine/Builder
+    - '@bypass /tppos 793 6 -143'
+    -2017,3,-15633:
+    - Author:Max_Joine/Builder
+    - '@bypass /tppos 793 6 -143'
+    864,4,-144:
+    - Author:Max_Joine/Builder
+    - '@player 鼠标点击网站 http://www.mcrmb.com/cz/4445 即可打开赞助链接'
+    863,3,-144:
+    - Author:Max_Joine/Builder
+    - '@player 传送需求等级:10级'
+    - '@player 鼠标点击网站 http://www.mcrmb.com/cz/4445 即可打开赞助链接'
+    863,3,-148:
+    - Author:Max_Joine/Builder
+    - '@player 传送需求等级:0级'
+    - '@player 鼠标点击网站 http://www.mcrmb.com/cz/4445 即可打开赞助链接'
+    863,3,-140:
+    - Author:Max_Joine/Builder
+    - '@player 传送需求等级:20级'
+    - '@player 鼠标点击网站 http://www.mcrmb.com/cz/4445 即可打开赞助链接'
+    790,3,-169:
+    - Author:Max_Joine/Builder
+    - '@bypass /bs 点券商店'
+    - '@player 点击网站打开充值网站>>> http://www.mcrmb.com/cz/4445 <<<'
+    799,5,-167:
+    - Author:Max_Joine/Builder
+    - '@player 点击网站打开充值网站>>> http://www.mcrmb.com/cz/4445 <<<'
+    - '@player 输入/bs 点券商店 或者输入/cd 点击点券商店传送即可打开点券商店'
+    793,4,-143:
+    - Author:Max_Joine/Builder
+    - '@player 点击网站打开充值网站>>> http://www.mcrmb.com/cz/4445 <<<'
+    - '@player 输入/bs 点券商店 或者输入/cd 点击点券商店传送即可打开点券商店'

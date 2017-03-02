@@ -1,0 +1,337 @@
+pos: 16
+groups: {}
+items:
+  加官进爵:
+    name: 加官进爵
+    id: 15
+    haspermission: false
+    display: '&a加官进爵'
+    quality: TRASH
+    damageMin: 0
+    damageMax: 0
+    armour: 0
+    armourNum: 0
+    type: '&a爵位卡'
+    hand: '&a城主授予的爵位，这是荣耀的象征'
+    lore: ''
+    repairPrice: 0.0
+    cost:
+      exp: 0
+      money: 0.0
+    ignorePlugins: []
+    description:
+    - '&f&a右键使用即可获得称号'
+    - '&f&a同时加持20秒无敌'
+    item: CLAY_BRICK
+    item_data: 0
+    powers:
+      '0':
+        powerName: potionself
+        cooldown: 300
+        amp: 1
+        time: 400
+        type: HEAL
+      '1':
+        powerName: command
+        cooldown: 0
+        command: manuaddv {player} suffix &6<勇者♂&b子爵&a
+        display: .
+        isRight: true
+        permission: groupmanager.manuaddv
+      '2':
+        powerName: consume
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    disappearChance: 0
+    keep:
+      lore: false
+      enchant: false
+    maxDurability: 0
+    forceBar: false
+  勇者战将:
+    name: 勇者战将
+    id: 14
+    haspermission: false
+    permission: a.default.permission
+    display: '&e无上荣耀-勇者战将'
+    quality: TRASH
+    damageMin: 0
+    damageMax: 0
+    armour: 0
+    armourNum: 0
+    type: '&e称号卡'
+    hand: '&a右键使用即可获得无上荣耀'
+    lore: ''
+    repairPrice: 0.0
+    cost:
+      exp: 0
+      money: 0.0
+    ignorePlugins: []
+    description:
+    - '&f&6来吧，接受属于你的荣耀'
+    item: PAPER
+    item_data: 0
+    powers:
+      '0':
+        powerName: command
+        cooldown: 0
+        command: manuaddv {player} suffix &6≮勇者♂&a战将≯
+        display: .
+        isRight: true
+        permission: groupmanager.manuaddv
+      '1':
+        powerName: consume
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    disappearChance: 0
+    keep:
+      lore: false
+      enchant: false
+    maxDurability: -1
+    forceBar: false
+  顶级hp:
+    name: 顶级hp
+    id: 11
+    haspermission: false
+    permission: a.default.permission
+    display: '&d斯洛顿高级HP药剂'
+    quality: TRASH
+    damageMin: 0
+    damageMax: 0
+    armour: 0
+    armourNum: 0
+    type: '&d消耗品'
+    hand: '&6顶级炼金术士炼制的高级HP药剂'
+    lore: ''
+    repairPrice: 0.0
+    cost:
+      exp: 0
+      money: 0.0
+    ignorePlugins: []
+    description:
+    - '&f&6药效:瞬间满血另加持2秒无敌'
+    - '&f&6冷却:无'
+    item: FERMENTED_SPIDER_EYE
+    item_data: 0
+    powers:
+      '0':
+        powerName: consume
+      '1':
+        powerName: potionself
+        cooldown: 20
+        amp: 1
+        time: 40
+        type: HEAL
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    disappearChance: 0
+    keep:
+      lore: false
+      enchant: false
+    maxDurability: -1
+    forceBar: false
+  高级经验丹:
+    name: 高级经验丹
+    id: 10
+    haspermission: false
+    permission: a.default.permission
+    display: '&e高级经验丹'
+    quality: TRASH
+    damageMin: 0
+    damageMax: 0
+    armour: 0
+    armourNum: 0
+    type: '&d消耗品'
+    hand: '&a请勿狂吃经验丹，否则会流失药效'
+    lore: ''
+    repairPrice: 0.0
+    cost:
+      exp: 0
+      money: 0.0
+    ignorePlugins: []
+    description:
+    - '&f&6食用后增加100点经验值'
+    item: MELON_SEEDS
+    item_data: 0
+    powers:
+      '0':
+        powerName: command
+        cooldown: 0
+        command: exp give 100
+        display: 右键使用
+        isRight: true
+        permission: essentials.exp.give
+      '1':
+        powerName: consume
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    disappearChance: 0
+    keep:
+      lore: false
+      enchant: false
+    maxDurability: -1
+    forceBar: false
+  2hp:
+    name: 2hp
+    id: 8
+    haspermission: false
+    permission: a.default.permission
+    display: '&a中级HP药剂'
+    quality: TRASH
+    damageMin: 0
+    damageMax: 0
+    armour: 0
+    armourNum: 0
+    type: '&a消耗品'
+    hand: '&a可以恢复血量的神奇药剂'
+    lore: ''
+    repairPrice: 0.0
+    cost:
+      exp: 0
+      money: 0.0
+    ignorePlugins: []
+    description:
+    - '&f&6药效:持续20秒回血66点'
+    - '&f&6冷却时间：40秒'
+    item: MAGMA_CREAM
+    item_data: 0
+    powers:
+      '0':
+        powerName: potionself
+        cooldown: 800
+        amp: 3
+        time: 400
+        type: REGENERATION
+      '1':
+        powerName: consume
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    disappearChance: 0
+    keep:
+      lore: false
+      enchant: false
+    maxDurability: -1
+    forceBar: false
+  1hp:
+    name: 1hp
+    id: 7
+    haspermission: false
+    permission: a.default.permission
+    display: '&a低级HP药剂'
+    quality: TRASH
+    damageMin: 0
+    damageMax: 0
+    armour: 0
+    armourNum: 0
+    type: '&a消耗品'
+    hand: '&a可以恢复血量的神奇药剂'
+    lore: ''
+    repairPrice: 0.0
+    cost:
+      exp: 0
+      money: 0.0
+    ignorePlugins: []
+    description:
+    - '&f&6描述:持续10秒回血33秒'
+    - '&f&6冷却时间：20秒'
+    item: BLAZE_POWDER
+    item_data: 0
+    powers:
+      '0':
+        powerName: potionself
+        cooldown: 400
+        amp: 3
+        time: 200
+        type: REGENERATION
+      '1':
+        powerName: consume
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    disappearChance: 0
+    keep:
+      lore: false
+      enchant: false
+    maxDurability: -1
+    forceBar: false
+  低级经验丹:
+    name: 低级经验丹
+    id: 6
+    haspermission: false
+    permission: a.default.permission
+    display: '&a低级经验丹'
+    quality: TRASH
+    damageMin: 0
+    damageMax: 0
+    armour: 0
+    armourNum: 0
+    type: '&a消耗品'
+    hand: '&6请勿狂吃经验丹，会流失药效'
+    lore: ''
+    repairPrice: 0.0
+    cost:
+      exp: 0
+      money: 0.0
+    ignorePlugins: []
+    description:
+    - '&f&a食用后增加50点经验值'
+    - '&f&4建议2秒钟吃一颗'
+    - '&f&4你狂吃的话会丹药少了经验没变'
+    item: SEEDS
+    item_data: 0
+    powers:
+      '0':
+        powerName: command
+        cooldown: 0
+        command: exp give 50
+        display: 右键使用
+        isRight: true
+        permission: essentials.exp.give
+      '1':
+        powerName: consume
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    disappearChance: 0
+    keep:
+      lore: false
+      enchant: false
+    maxDurability: -1
+    forceBar: false
+  '1':
+    name: '1'
+    id: 5
+    haspermission: false
+    permission: a.default.permission
+    display: WOOD_SWORD
+    quality: TRASH
+    damageMin: 0
+    damageMax: 3
+    armour: 0
+    armourNum: 0
+    type: Sword
+    hand: One handed
+    lore: ''
+    repairPrice: 0.0
+    cost:
+      exp: 0
+      money: 0.0
+    ignorePlugins: []
+    description: []
+    item: WOOD_SWORD
+    item_data: 0
+    powers: {}
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    disappearChance: 0
+    keep:
+      lore: false
+      enchant: false
+    maxDurability: -1
+    forceBar: false

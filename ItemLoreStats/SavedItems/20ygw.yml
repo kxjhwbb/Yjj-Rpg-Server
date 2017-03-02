@@ -1,0 +1,26 @@
+Item:
+  ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND_AXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §4千年神鸟的羽毛-远古武器
+    lore:
+    - §6品级：§4远古武器
+    - §6[基础属性]
+    - §4●攻击力：+55-60
+    - §6[附加属性]
+    - §4●嗜血:+12%
+    - §4●暴击几率:+14%
+    - §4●寒冰攻击:+12%
+    - §4●烈焰攻击:+12%
+    - §4●剧毒攻击:+12%
+    - §4●致盲攻击:+12%
+    - §4●凋零攻击:+10%
+    - §6[女神眷顾]
+    - '§a§e§f§a耐久: 无限'
+    - §e[§4远古赐福]
+    - §a无§e等§b级§c限§d制
+    - §4[提示]装备遗失概不负责，请妥善保管
+    enchants:
+      ARROW_INFINITE: 1

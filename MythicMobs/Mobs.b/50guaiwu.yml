@@ -1,0 +1,76 @@
+50bs:
+  Type: skeleton
+  Display: '&4领主: 沙影贝利特&d[LV.50BOSS]'
+  Health: 8000
+  Damage: 40
+  Skills: 
+  - msg 0:'&c[战魂榜]&6史诗地下城刷&e【50级领主沙影贝利特】&9出现了，勇士们速速前往击杀，有几率获得50级粉装！' =100% 1
+  - teleport 20 <20% 1
+  - lightning 10:3 ~onTimer:40 <50% 1
+  - msg 20:'&dBOSS施展了血影杀，10格范围内的玩家会持续掉血' =50% 1
+  Drops: 
+  - exp 5
+  - cqsj 1-5 1
+  - 50lw 1 0.2
+  - 50lt 1 0.2
+  - 50ly 1 0.2
+  - 50lk 1 0.2
+  - 50lx 1 0.2
+  - 50zw 1 0.05
+  - 50zt 1 0.05
+  - 50zy 1 0.05
+  - 50zk 1 0.05
+  - 50zx 1 0.05
+  - 50fw 1 0.001
+  - 50ft 1 0.003
+  - 50fy 1 0.003
+  - 50fk 1 0.003
+  - 50fx 1 0.003
+  Equipment: 
+  - jinkui:4
+  - jinjia:3  
+  - jinku:2 
+  - jinxue:1 
+  - zuanshijian:0 
+  Options: 
+    PreventLeashing: true 
+    PreventOtherDrops: true 
+    AlwaysShowName: true 
+    MaxCombatDistance: 5
+    MovementSpeed: 0.3
+    KnockbackResistance: 1 
+    FollowRange: 5 
+
+50jy:
+  Type: skeleton
+  Display: '&4尼尔巴斯·格拉西亚&c[LV.50精英]'
+  Health: 5000
+  Damage: 25
+  Skills: 
+  Drops: 
+  - exp 5
+  - cqsj 1-5 1
+  - 50lw 1 0.2
+  - 50lt 1 0.2
+  - 50ly 1 0.2
+  - 50lk 1 0.2
+  - 50lx 1 0.2
+  - 50zw 1 0.03
+  - 50zt 1 0.03
+  - 50zy 1 0.03
+  - 50zk 1 0.03
+  - 50zx 1 0.03
+  Equipment: 
+  - tiekui:4
+  - tiejia:3  
+  - tieku:2 
+  - tiexue:1  
+  - tiejian:0 
+  Options: 
+    PreventLeashing: true 
+    PreventOtherDrops: true 
+    AlwaysShowName: true 
+    MaxCombatDistance: 25 
+    MovementSpeed: 0.3
+    KnockbackResistance: 1 
+    FollowRange: 5 

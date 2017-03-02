@@ -1,0 +1,166 @@
+version: 1.3.0-11
+selected: english
+english:
+  you_have_new_mail: 收到新邮件
+  player_context_required: Player context is required
+  cmd:
+    prefix: '[&a&l环球市场&f] '
+    help: 输入/market ?以查看帮助信息
+    help_legend: 米二的渣翻译:)
+    listings_syntax: /market listings (<搜索>)
+    listings_descr: '[查看市场清单]'
+    cs_syntax: /market cancelSearch <search>
+    cs_descr: '[按标准隐藏上架的货物]'
+    create_syntax: /market create <price> (<amount>)
+    create_descr: '[上架手中的物品]'
+    mailbox_syntax: /market mailbox (remove)
+    mailbox_descr: '[创建或者删除一个邮箱]'
+    stall_syntax: /market stall (remove)
+    stall_descr: '[创建或删除一个摊位]'
+    mail_syntax: /market mail (<玩家ID>)
+    mail_descr: '[打开自己的邮箱]'
+    reload_syntax: /market reload
+    reload_descr: '[重载config.yml和locale.yml文件]'
+    history_syntax: /market history (<数量>)
+    history_descr: '[展示交易记录]'
+    send_syntax: /market send <玩家ID> (<数量>)
+    send_descr: '[将手中的物品寄给其他玩家]'
+    pc_syntax: /market pricecheck
+    pc_descr: '[检查你手中物品的价格]'
+  player_not_found: 找不到该玩家
+  check_your_inventory: Check your inventory!
+  not_a_valid_number: '"%s" 不是一个有效数字'
+  not_a_valid_amount: '"%s" 不是一个有效数量'
+  you_dont_have_x_of_this_item: 你身上携带的数量不够哦~
+  hold_an_item: 手持需要出售的物品然后输入
+  item_sent: 物品寄出
+  item_will_send: 你的物品将会在 %s 分钟内送达~
+  item_listed: 上架成功
+  items_listed: 上架成功
+  item_listed_with_fee: 货物上架已纳税%s
+  items_listed_with_fee: 货物上架已纳税%s
+  item_queued: Your listing will appear in %s minutes
+  items_queued: Your listing will appear in %s minutes
+  item_queued_with_fee: Your listing will appear in %s minutes with a fee of %s
+  items_queued_with_fee: Your listing will appear in %s minutes with a fee of %s
+  charged_fee: Charged a fee of %s
+  aim_cursor_at_chest_or_sign: Please aim your cursor at a chest or sign
+  mailbox_removed: Mailbox removed
+  no_mailbox_found: No mailbox found
+  mailbox_already_exists: Mailbox already exists!
+  mailbox_added: 邮箱创建成功
+  stall_removed: 摊位创建成功
+  no_stall_found: 未发现摊位
+  stall_already_exists: 摊位已经存在
+  stall_added: 摊位创建成功
+  transaction_log:
+    item_name: 贸易记录
+    title: 市场贸易记录
+    item_sold: '售出货物: %s'
+    sale_price: '售价: %s'
+    market_cut: '手续费: %s'
+    amount_recieved: '总收入: %s'
+    buyer: '收购者: %s'
+    unsignable: 不可签名的书
+  listing_purchased_mailbox: 你的货物 %s 已被出售,在邮箱中收取收益
+  history:
+    prefix: '%1$s. <%2$s> '
+    item_listed: 你以%2$s的价格上架了%1$s
+    item_bought: 你以%2$s的价格购买了%1$s
+    item_sold: 你以%2$s的价格出售了%1$s
+    listing_removed: '%1$s removed your listing of %2$s'
+    listing_expired: Your listing of %s expired
+    earnings_retrieved: '%1$s retrieved your earnings of %2$s'
+    item_name: Market History
+    title: '%s''s Market History'
+    total_earned: 'Total earned: %s'
+    total_spent: 'Total spent: %s'
+    actual_amount_made: 'Actual amount made: %s'
+    at_time: <at %s>
+    none_yet: No history... yet ;)
+  you_sold_your_listing: You sold your listing of %s
+  picked_up_your_earnings: Picked up your earnings. Your new balance is %s
+  amount: '数量: '
+  price: '总价: '
+  free: 免费
+  seller: '出售者: '
+  click_to_buy: <左键单击购买>
+  click_again_to_confirm: <再次左键单击确认购买, 右键单击取消购买>
+  click_to_retrieve: <click to retrieve>
+  full_inventory: <full inventory!>
+  shift_click_to_remove: <shift+左键单击下架>
+  shift_click_again_to_confirm: <再次shift+左键单击确认操作, 右键单击取消操作>
+  not_enough_money: <缺少足够的卡布>
+  interface:
+    listings_title: 市场清单
+    mail_title: 市场邮件
+    page: Page %s
+    next_page: 下一页
+    prev_page: 上一页
+    cur_page: 当前页
+    cancel_search: 取消搜索
+    searching_for: 正在查找 "%s"
+    search: 查找...
+    start_search: <此按钮有错误，请勿使用，否则后果自负>
+    infinite: <无限数量>
+    mail_from: 'From: '
+    transaction_error: <transaction error!>
+    stacked: <%1$s of %2$s>
+    stacked_many: many
+    sort_by: 切换分类...
+    sorting_by: '类型: %s'
+    sort_methods:
+      default: 最新上架
+      default_mail: 邮箱优先
+      price_lowest: 价格递增
+      price_highest: 价格递减
+      amount_highest: 数量递减
+      listings_only: 仅市场页面
+      mail_only: 仅邮箱页面
+    swap_to_create: 拖拽一个物品放到这里来上架出售
+    create: 货物上架
+    specify_amount_and_price: 详细的数量与总价
+    amount_sign: 数量
+    price_sign: 总价
+    selling_for: Currently selling for %s
+    mail_listing_title: '&a<Listing>&f %s'
+  interface_closed_due_to_reload: Interface force-closed due to a reload
+  config_reloaded: Config reloaded
+  no_permission_for_this_command: You do not have permission for this command
+  price_too_low: 总价必须大于零哦~
+  price_too_high: 不合格！你开的价格太高了~！
+  cant_mail_to_self: 邮局禁止自己给自己寄邮件！
+  type_your_search: 在聊天蓝输入你要查找的物品<英文>名称, 输入 cancel 放弃
+  search_cancelled: 取消搜索
+  you_cant_pay_this_fee: 你貌似付不起账哦
+  selling_too_many_items: 你上架的货物超过上限了哦
+  item_is_blacklisted: 这件物品不准流通！
+  item_is_blacklisted_from_mail: 这件物品不准邮寄
+  friendly_item_name: '%s'
+  friendly_item_name_with_amount: '%1$s %2$s'
+  full_mailbox: 你的邮箱满了！
+  full_mailbox_other: '%s''s 邮箱已满'
+  cant_sign_book: 你不能为这本书签名！
+  prices:
+    no_data: No data available for %s. Price data will not be available until the item has been sold at least once
+    header: '%s Pricing:'
+    price_per_item: '平均每个单价: %s'
+    price_per_stack: '平均每组单价: %s'
+  not_allowed_while_in_creative: You can't do this while in creative mode
+  history_not_enabled: 此命令当前不可用
+  your_listing_has_been_added: 你上架的 %s 已经添货
+  not_near_stall: 你需要在摊位附近操作
+  not_near_mailbox: 你需要在邮箱附近操作
+  listing_created:
+    prefix1: '['
+    prefix1_color: white
+    prefix2: Market
+    prefix2_color: green
+    prefix3: ']'
+    prefix3_color: white
+    main: ' A new listing of '
+    main_color: white
+    item: '[%s]'
+    item_color: green
+    suffix: ' was created'
+    suffix_color: white

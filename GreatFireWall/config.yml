@@ -1,0 +1,9 @@
+enablePing: true
+pingPacketIn10SecPerIP: 20
+joinRequestIn10SecPerIP: 5
+
+banTimeOnOverclockingPing: 60
+banTimeOnOverclockingJoin: 60
+
+warningConsole: true
+warningOPs: true

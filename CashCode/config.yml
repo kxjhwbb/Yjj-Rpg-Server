@@ -1,0 +1,10 @@
+general:
+  codePrefix: true
+  prefix: dj
+  debug: true
+mysql:
+  host: localhost
+  port: 3306
+  user: root
+  password: 474495018
+  database: mysql

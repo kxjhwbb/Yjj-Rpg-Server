@@ -1,0 +1,6415 @@
+'0':
+  uniqueId: cce841ad-4a70-44ed-8271-988e23c36987
+  name: 40粉装碎片兑换
+  world: world
+  x: 2675
+  y: 104
+  z: 891
+  type: admin
+  object: villager
+  uuid: 61373cba-777e-cf27-a7ce-2aa115201e67
+  prof: 0
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 14
+          amount: 64
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §b40级粉装碎片
+            lore:
+            - §a史诗级地下城掉落的碎片
+            - §a可以在史诗地下城找NPC兑换粉装
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 32
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹黄金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6虽说钱财乃身外之物，但是没钱的话，那是万万不行滴
+            - §a拿着它去钱庄可以兑换游戏币
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_SWORD
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §d库兰的焰影剑
+            lore:
+            - §6品级：§d粉装
+            - §6[基础属性]
+            - §d●攻击力：+49-50
+            - §6[附加属性]
+            - §d●嗜血:+10%
+            - §d●暴击几率:+12%
+            - §d●寒冰攻击:+10%
+            - §d●烈焰攻击:+10%
+            - §d●剧毒攻击:+10%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §d等级属性：40级
+            - §d无级别属性：0级即可佩戴
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - '§a§e§f§a耐久: 无限'
+            - §6[女神眷顾]
+            - ''
+            - §e[§a无§6上§b神§d武§e]
+            - §a无§e等§b级§c限§d制
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 14
+          amount: 40
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §b40级粉装碎片
+            lore:
+            - §a史诗级地下城掉落的碎片
+            - §a可以在史诗地下城找NPC兑换粉装
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 16
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹黄金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6虽说钱财乃身外之物，但是没钱的话，那是万万不行滴
+            - §a拿着它去钱庄可以兑换游戏币
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_HELMET
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §d库兰的焰影战盔
+            lore:
+            - §6品级：§d粉装
+            - §6[基础属性]
+            - §d●防御力:+9%
+            - §6[附加属性]
+            - §d●速度提升:+4%
+            - §d●闪避:+4%
+            - §d●生命回复:+3%
+            - §d●生命:+40
+            - §d●伤害反弹:+5%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §d等级属性：40级
+            - §d无级别属性：0级即可佩戴
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - §e[§a无§6上§b神§d武§e]
+            - §a无§e等§b级§c限§d制
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 14
+          amount: 40
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §b40级粉装碎片
+            lore:
+            - §a史诗级地下城掉落的碎片
+            - §a可以在史诗地下城找NPC兑换粉装
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 16
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹黄金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6虽说钱财乃身外之物，但是没钱的话，那是万万不行滴
+            - §a拿着它去钱庄可以兑换游戏币
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_CHESTPLATE
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §d库兰的焰影战甲
+            lore:
+            - §6品级：§d粉装
+            - §6[基础属性]
+            - §d●防御力:+9%
+            - §6[附加属性]
+            - §d●速度提升:+4%
+            - §d●闪避:+4%
+            - §d●生命回复:+3%
+            - §d●生命:+40
+            - §d●伤害反弹:+5%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §d等级属性：40级
+            - §d无级别属性：0级即可佩戴
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - §e[§a无§6上§b神§d武§e]
+            - §a无§e等§b级§c限§d制
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 14
+          amount: 40
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §b40级粉装碎片
+            lore:
+            - §a史诗级地下城掉落的碎片
+            - §a可以在史诗地下城找NPC兑换粉装
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 16
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹黄金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6虽说钱财乃身外之物，但是没钱的话，那是万万不行滴
+            - §a拿着它去钱庄可以兑换游戏币
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_LEGGINGS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §d库兰的焰影护腿
+            lore:
+            - §6品级：§d粉装
+            - §6[基础属性]
+            - §d●防御力:+9%
+            - §6[附加属性]
+            - §d●速度提升:+4%
+            - §d●闪避:+4%
+            - §d●生命回复:+3%
+            - §d●生命:+40
+            - §d●伤害反弹:+5%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §d等级属性：40级
+            - §d无级别属性：0级即可佩戴
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - §e[§a无§6上§b神§d武§e]
+            - §a无§e等§b级§c限§d制
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 14
+          amount: 40
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §b40级粉装碎片
+            lore:
+            - §a史诗级地下城掉落的碎片
+            - §a可以在史诗地下城找NPC兑换粉装
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 16
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹黄金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6虽说钱财乃身外之物，但是没钱的话，那是万万不行滴
+            - §a拿着它去钱庄可以兑换游戏币
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_BOOTS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §d库兰的焰影战靴
+            lore:
+            - §6品级：§d粉装
+            - §6[基础属性]
+            - §d●防御力:+9%
+            - §6[附加属性]
+            - §d●速度提升:+4%
+            - §d●闪避:+4%
+            - §d●生命回复:+3%
+            - §d●生命:+40
+            - §d●伤害反弹:+5%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §d等级属性：40级
+            - §d无级别属性：0级即可佩戴
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - §e[§a无§6上§b神§d武§e]
+            - §a无§e等§b级§c限§d制
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+'1':
+  uniqueId: 100f7c05-989a-418a-a22c-5a02fb16d9cf
+  name: 50级粉装碎片兑换
+  world: world
+  x: 2673
+  y: 104
+  z: 891
+  type: admin
+  object: villager
+  uuid: dbdb7ba3-e2ad-1143-d3be-667a6b7948f5
+  prof: 0
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 14
+          amount: 64
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §d50级粉装碎片
+            lore:
+            - §a史诗级地下城掉落的碎片
+            - §a可以在史诗地下城找NPC兑换粉装
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 64
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹黄金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6虽说钱财乃身外之物，但是没钱的话，那是万万不行滴
+            - §a拿着它去钱庄可以兑换游戏币
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND_SWORD
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §d裂创心灵之刃
+            lore:
+            - §6品级：§d粉装
+            - §6[基础属性]
+            - §d●攻击力：+55-60
+            - §6[附加属性]
+            - §d●嗜血:+10%
+            - §d●暴击几率:+12%
+            - §d●寒冰攻击:+10%
+            - §d●烈焰攻击:+10%
+            - §d●剧毒攻击:+10%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §d等级属性：50级
+            - §d无级别属性：0级即可佩戴
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - '§a§e§f§a耐久: 无限'
+            - §6[女神眷顾]
+            - ''
+            - §e[§a无§6上§b神§d武§e]
+            - §a无§e等§b级§c限§d制
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 14
+          amount: 40
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §d50级粉装碎片
+            lore:
+            - §a史诗级地下城掉落的碎片
+            - §a可以在史诗地下城找NPC兑换粉装
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 32
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹黄金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6虽说钱财乃身外之物，但是没钱的话，那是万万不行滴
+            - §a拿着它去钱庄可以兑换游戏币
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND_HELMET
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §d天帷巨兽:赤龙皮甲战盔
+            lore:
+            - §6品级：§d粉装
+            - §6[基础属性]
+            - §d●防御力:+10%
+            - §6[附加属性]
+            - §d●速度提升:+4%
+            - §d●闪避:+4%
+            - §d●生命回复:+3%
+            - §d●生命:+50
+            - §d●伤害反弹:+5%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §d等级属性：50级
+            - §d无级别属性：0级即可佩戴
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - §e[§a无§6上§b神§d武§e]
+            - §a无§e等§b级§c限§d制
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 14
+          amount: 40
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §d50级粉装碎片
+            lore:
+            - §a史诗级地下城掉落的碎片
+            - §a可以在史诗地下城找NPC兑换粉装
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 32
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹黄金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6虽说钱财乃身外之物，但是没钱的话，那是万万不行滴
+            - §a拿着它去钱庄可以兑换游戏币
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND_CHESTPLATE
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §d天帷巨兽:赤龙皮甲战甲
+            lore:
+            - §6品级：§d粉装
+            - §6[基础属性]
+            - §d●防御力:+10%
+            - §6[附加属性]
+            - §d●速度提升:+4%
+            - §d●闪避:+4%
+            - §d●生命回复:+3%
+            - §d●生命:+50
+            - §d●伤害反弹:+5%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §d等级属性：50级
+            - §d无级别属性：0级即可佩戴
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - §e[§a无§6上§b神§d武§e]
+            - §a无§e等§b级§c限§d制
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 14
+          amount: 40
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §d50级粉装碎片
+            lore:
+            - §a史诗级地下城掉落的碎片
+            - §a可以在史诗地下城找NPC兑换粉装
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 32
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹黄金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6虽说钱财乃身外之物，但是没钱的话，那是万万不行滴
+            - §a拿着它去钱庄可以兑换游戏币
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND_LEGGINGS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §d天帷巨兽:赤龙皮甲护腿
+            lore:
+            - §6品级：§d粉装
+            - §6[基础属性]
+            - §d●防御力:+10%
+            - §6[附加属性]
+            - §d●速度提升:+4%
+            - §d●闪避:+4%
+            - §d●生命回复:+3%
+            - §d●生命:+50
+            - §d●伤害反弹:+5%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §d等级属性：50级
+            - §d无级别属性：0级即可佩戴
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - §e[§a无§6上§b神§d武§e]
+            - §a无§e等§b级§c限§d制
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 14
+          amount: 40
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §d50级粉装碎片
+            lore:
+            - §a史诗级地下城掉落的碎片
+            - §a可以在史诗地下城找NPC兑换粉装
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 32
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹黄金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6虽说钱财乃身外之物，但是没钱的话，那是万万不行滴
+            - §a拿着它去钱庄可以兑换游戏币
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND_BOOTS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §d天帷巨兽:赤龙皮甲战靴
+            lore:
+            - §6品级：§d粉装
+            - §6[基础属性]
+            - §d●防御力:+10%
+            - §6[附加属性]
+            - §d●速度提升:+4%
+            - §d●闪避:+4%
+            - §d●生命回复:+3%
+            - §d●生命:+50
+            - §d●伤害反弹:+5%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §d等级属性：50级
+            - §d无级别属性：0级即可佩戴
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - §e[§a无§6上§b神§d武§e]
+            - §a无§e等§b级§c限§d制
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+'2':
+  uniqueId: 491ad777-0226-40dd-a7f4-5f0fe2ad04e0
+  name: 城门守卫队长格拉
+  world: world
+  x: 731
+  y: 4
+  z: -147
+  type: admin
+  object: villager
+  uuid: 8536bee8-09c0-5512-09e6-e1925770011a
+  prof: 0
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            - §a然后在城门方向找到主城守备队长格拉
+            - §a开启下一阶段任务
+            title: 找军团长拿到段位灵晶
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              忧伤的城主斯洛亚
+
+              任务描述
+              太好了，谢谢你为我带来了足够的核心能量，这下可以支撑一阵子了。
+              对了，最近很多勇士之前段位排名空前火热，我的一个远房表亲的儿子准备参加这次段位赛，不知道你能不能帮我找来一点段位灵晶呢。
+                                  下一页
+            - |-
+              任务需求
+              段位灵晶
+              【听说军团长哥伦特手上有很多这种灵晶，你或许可以去找他看看】
+
+              任务奖励
+              高级经验丹*3
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §e灵晶
+            lore:
+            - §a可增加100点段位值
+            - §e右键使用
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【段位灵晶】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【段位灵晶】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: MELON_SEEDS
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §0§0§0§0§0§0§0§a§7§l§e高级经验丹
+            lore:
+            - §b§l§o§a§m§7§f§9§0§0§0§0§0§0§0§4§f§a请勿狂吃经验丹，否则会流失药效     §d消耗品§c§a§f§e§0§0§0§0
+            - §a右键使用
+            - §a使用后消耗掉
+            - §f§6食用后增加100点经验值
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【段位灵晶】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 寻找猎人
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点：
+              城门守备队长格拉
+
+              任务对话
+              你就是城主介绍来的那个小子吧，
+              看在你跟城主熟的份上，我就告诉你一个小秘密。
+              我们的城镇有一位猎人，他经常会挖掘到一些宝藏。
+              你去30级副本找他，他会告诉你宝藏在哪里。
+            - |+
+              任务需求
+              去30级副本找到猎人
+
+'3':
+  uniqueId: 50abe071-b2ea-45ac-9828-bc7836fc84af
+  name: 10级紫装锻造商
+  world: world
+  x: 821
+  y: 4
+  z: -149
+  type: admin
+  object: villager
+  uuid: 519fb5a5-f68e-5abf-c419-16d59a2067bb
+  prof: 5
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: STAINED_GLASS
+          amount: 64
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a无色小晶块
+            lore:
+            - §aBOSS掉落的晶块
+            - §a可以用来锻造级装备
+            - §6用途:锻造装备需要锻造图纸
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER
+          amount: 32
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a野狼的皮毛
+            lore:
+            - §a野狼掉落的皮毛
+            - §a可以用来锻造级装备
+            - §6用途:锻造装备需要锻造书
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DEAD_BUSH
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §610级熔炼精华
+            lore:
+            - §6可以用来锻造10级装备
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GHAST_TEAR
+          amount: 32
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a低级融合剂
+            lore:
+            - §a怪物掉落的融合剂
+            - §a可以用来锻造级装备
+            - §6用途:锻造装备需要锻造书
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: EMERALD
+          amount: 10
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a幸运女神的祝福
+            lore:
+            - §a怪物掉落的材料
+            - §a可以用来锻造级装备
+            - §6用途:锻造装备需要锻造书
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: CAULDRON_ITEM
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §610级锻造池
+            lore:
+            - §6锻造10级装备的容器
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DEAD_BUSH
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §610级熔炼精华
+            lore:
+            - §6可以用来锻造10级装备
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: CAULDRON_ITEM
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §610级锻造池
+            lore:
+            - §6锻造10级装备的容器
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+          damage: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §610级§5紫装器灵
+            lore:
+            - §6通过无数次的精炼
+            - §6打造出的§5紫装器灵
+            - §6只要给他一个锻造图纸
+            - §6他即可化为你想要的任何装备
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5奥斯卡的战剑锻造图纸
+            lore:
+            - §f等级:10级以上可以使用
+            - §a锻造材料需求：
+            - §6无色小晶块*128
+            - §6野狼的皮毛*64
+            - §6幸运女神的祝福*20
+            - §6低级融合剂*64
+            - §a材料掉落：均在10级副本可以获得
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+          damage: 3
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §610级§5紫装器灵
+            lore:
+            - §6通过无数次的精炼
+            - §6打造出的§5紫装器灵
+            - §6只要给他一个锻造图纸
+            - §6他即可化为你想要的任何装备
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WOOD_SWORD
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5奥斯卡战剑
+            lore:
+            - §6品级：§5紫装
+            - §6[基础属性]
+            - §5●攻击力：+8-13
+            - §6[附加属性]
+            - §5●暴击几率:+9%
+            - §5●寒冰攻击:+6%
+            - §5●烈焰攻击:+3%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §5侍卫长奥斯卡的佩剑
+            - §5一直不见踪迹，原来遗失在了世外桃源
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 10'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5奥斯卡的战盔锻造图纸
+            lore:
+            - §f等级:10级以上可以使用
+            - §a锻造材料需求：
+            - §6无色小晶块*64
+            - §6野狼的皮毛*32
+            - §6幸运女神的祝福*10
+            - §6低级融合剂*32
+            - §a材料掉落：均在10级副本可以获得
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+          damage: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §610级§5紫装器灵
+            lore:
+            - §6通过无数次的精炼
+            - §6打造出的§5紫装器灵
+            - §6只要给他一个锻造图纸
+            - §6他即可化为你想要的任何装备
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER_HELMET
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §5奥斯卡战盔
+            lore:
+            - §6品级：§5紫装
+            - §6[基础属性]
+            - §5●防御力:+3%
+            - §6[附加属性]
+            - §5●速度提升:+3%
+            - §5●闪避:+3%
+            - §5●生命回复:+2%
+            - §5●生命:+15
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §5侍卫长奥斯卡的护甲
+            - §5一直不见踪迹，原来遗失在了室外桃源
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 10'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5奥斯卡的战甲锻造图纸
+            lore:
+            - §f等级:10级以上可以使用
+            - §a锻造材料需求：
+            - §6无色小晶块*64
+            - §6野狼的皮毛*32
+            - §6幸运女神的祝福*10
+            - §6低级融合剂*32
+            - §a材料掉落：均在10级副本可以获得
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+          damage: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §610级§5紫装器灵
+            lore:
+            - §6通过无数次的精炼
+            - §6打造出的§5紫装器灵
+            - §6只要给他一个锻造图纸
+            - §6他即可化为你想要的任何装备
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER_CHESTPLATE
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §5奥斯卡战甲
+            lore:
+            - §6品级：§5紫装
+            - §6[基础属性]
+            - §5●防御力:+3%
+            - §6[附加属性]
+            - §5●速度提升:+3%
+            - §5●闪避:+3%
+            - §5●生命回复:+2%
+            - §5●生命:+15
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §5侍卫长奥斯卡的护甲
+            - §5一直不见踪迹，原来遗失在了室外桃源
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 10'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5奥斯卡的护腿锻造图纸
+            lore:
+            - §f等级:10级以上可以使用
+            - §a锻造材料需求：
+            - §6无色小晶块*64
+            - §6野狼的皮毛*32
+            - §6幸运女神的祝福*10
+            - §6低级融合剂*32
+            - §a材料掉落：均在10级副本可以获得
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+          damage: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §610级§5紫装器灵
+            lore:
+            - §6通过无数次的精炼
+            - §6打造出的§5紫装器灵
+            - §6只要给他一个锻造图纸
+            - §6他即可化为你想要的任何装备
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER_LEGGINGS
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §5奥斯卡护腿
+            lore:
+            - §6品级：§5紫装
+            - §6[基础属性]
+            - §5●防御力:+3%
+            - §6[附加属性]
+            - §5●速度提升:+3%
+            - §5●闪避:+3%
+            - §5●生命回复:+2%
+            - §5●生命:+15
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §5侍卫长奥斯卡的护甲
+            - §5一直不见踪迹，原来遗失在了室外桃源
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 10'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5奥斯卡的战靴锻造图纸
+            lore:
+            - §f等级:10级以上可以使用
+            - §a锻造材料需求：
+            - §6无色小晶块*64
+            - §6野狼的皮毛*32
+            - §6幸运女神的祝福*10
+            - §6低级融合剂*32
+            - §a材料掉落：均在10级副本可以获得
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+          damage: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §610级§5紫装器灵
+            lore:
+            - §6通过无数次的精炼
+            - §6打造出的§5紫装器灵
+            - §6只要给他一个锻造图纸
+            - §6他即可化为你想要的任何装备
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER_BOOTS
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §5奥斯卡战靴
+            lore:
+            - §6品级：§5紫装
+            - §6[基础属性]
+            - §5●防御力:+3%
+            - §6[附加属性]
+            - §5●速度提升:+3%
+            - §5●闪避:+3%
+            - §5●生命回复:+2%
+            - §5●生命:+15
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §5侍卫长奥斯卡的护甲
+            - §5一直不见踪迹，原来遗失在了室外桃源
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 10'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+'4':
+  uniqueId: ce3d5577-68d3-4cf1-a8e0-62771fc395fd
+  name: 晶体兑换商人
+  world: world
+  x: 818
+  y: 4
+  z: -149
+  type: admin
+  object: villager
+  uuid: 234f9e35-3896-f4b9-e531-8eb09ffa9acd
+  prof: 0
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 7
+          amount: 16
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a无色小晶体
+            lore:
+            - §a怪物掉落的晶体
+            - §a可以用来合成晶块锻造装备
+            - §a集齐64个小晶体可以去找晶块兑换商兑换
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_NUGGET
+          amount: 16
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹碎金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6拿着它去钱庄可以换到完整的黄金
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: STAINED_GLASS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a无色小晶块
+            lore:
+            - §aBOSS掉落的晶块
+            - §a可以用来锻造级装备
+            - §6用途:锻造装备需要锻造图纸
+            enchants:
+              ARROW_DAMAGE: 1
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 8
+          amount: 16
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a灰色小晶体
+            lore:
+            - §a怪物掉落的晶体
+            - §a可以用来合成晶块锻造装备
+            - §a集齐64个小晶体可以去找晶块兑换商兑换
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_NUGGET
+          amount: 32
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹碎金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6拿着它去钱庄可以换到完整的黄金
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: STAINED_GLASS
+          damage: 8
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a灰色小晶块
+            lore:
+            - §aBOSS掉落的晶块
+            - §a可以用来锻造级装备
+            - §6用途:锻造装备需要锻造图纸
+            enchants:
+              ARROW_DAMAGE: 1
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 11
+          amount: 16
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a绿色小晶体
+            lore:
+            - §a怪物掉落的晶体
+            - §a可以用来合成晶块锻造装备
+            - §a集齐64个小晶体可以去找晶块兑换商兑换
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹黄金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6虽说钱财乃身外之物，但是没钱的话，那是万万不行滴
+            - §a拿着它去钱庄可以兑换游戏币
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: STAINED_GLASS
+          damage: 5
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a绿色小晶块
+            lore:
+            - §aBOSS掉落的晶块
+            - §a可以用来锻造级装备
+            - §6用途:锻造装备需要锻造图纸
+            enchants:
+              ARROW_DAMAGE: 1
+'5':
+  uniqueId: 025a6cda-17cf-43a7-b3dd-62b3c14c7c77
+  name: 20级紫装锻造商人
+  world: world
+  x: 824
+  y: 4
+  z: -149
+  type: admin
+  object: villager
+  uuid: 118a2f51-06f3-9ec8-d417-ef35d556dd7e
+  prof: 2
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: STAINED_GLASS
+          damage: 8
+          amount: 64
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a灰色小晶块
+            lore:
+            - §aBOSS掉落的晶块
+            - §a可以用来锻造级装备
+            - §6用途:锻造装备需要锻造图纸
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER
+          amount: 32
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6烈焰之岛符咒
+            lore:
+            - §a烈焰岛怪物掉落的符咒
+            - §a可以用来锻造级装备
+            - §6用途:锻造装备需要锻造图纸
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DEAD_BUSH
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §b20级熔炼精华
+            lore:
+            - §a>>>用途<<<
+            - §5可用来锻造20级紫装
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GHAST_TEAR
+          amount: 32
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §b中级融合剂
+            lore:
+            - §a烈焰岛掉落的融合剂
+            - §a可以用来锻造级装备
+            - §6用途:锻造装备需要锻造图纸
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: EMERALD
+          amount: 30
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a幸运女神的祝福
+            lore:
+            - §a怪物掉落的材料
+            - §a可以用来锻造级装备
+            - §6用途:锻造装备需要锻造图纸
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: CAULDRON_ITEM
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §b20级锻造池
+            lore:
+            - §a>>>用途<<<
+            - §5锻造20级装备的熔炼池
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DEAD_BUSH
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §b20级熔炼精华
+            lore:
+            - §a>>>用途<<<
+            - §5可用来锻造20级紫装
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: CAULDRON_ITEM
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §b20级锻造池
+            lore:
+            - §a>>>用途<<<
+            - §5锻造20级装备的熔炼池
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+          damage: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §b20级紫装器灵
+            lore:
+            - §a>>>用途<<<
+            - §5可以用来锻造20级紫装的器灵
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5绝刀-红莲天舞战剑锻造图纸
+            lore:
+            - §f等级:20级以上可以使用
+            - §a锻造材料需求：
+            - §6灰色小晶块*128
+            - §6烈焰之岛符咒*64
+            - §6幸运女神的祝福*40
+            - §6中级融合剂*64
+            - §a材料掉落：均在20级副本可以获得
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+          damage: 3
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §b20级紫装器灵
+            lore:
+            - §a>>>用途<<<
+            - §5可以用来锻造20级紫装的器灵
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_SWORD
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5绝刀-红莲天舞战剑
+            lore:
+            - §6品级：§5紫装
+            - §6[基础属性]
+            - §5●攻击力：+15-17
+            - §6[附加属性]
+            - §5●暴击几率:+9%
+            - §5●寒冰攻击:+6%
+            - §5●烈焰攻击:+3%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §5万年死火山突然霞光万丈，岩浆爆发
+            - §5待一切平静后，焚天剑独自悬浮在火山口
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 20'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5卡露亚：奇袭头盔锻造图纸
+            lore:
+            - §f等级:20级以上可以使用
+            - §a锻造材料需求：
+            - §6灰色小晶块*64
+            - §6烈焰之岛符咒*32
+            - §6幸运女神的祝福*20
+            - §6中级融合剂*32
+            - §a材料掉落：均在20级副本可以获得
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+          damage: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §b20级紫装器灵
+            lore:
+            - §a>>>用途<<<
+            - §5可以用来锻造20级紫装的器灵
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_HELMET
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5卡露亚：奇袭
+            lore:
+            - §6品级：§5紫装
+            - §6[基础属性]
+            - §5●防御力:+4%
+            - §6[附加属性]
+            - §5●速度提升:+3%
+            - §5●闪避:+3%
+            - §5●生命回复:+2%
+            - §5●生命:+18
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §5卡露亚的贴身软甲
+            - §5据说可以提升移动速度
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 20'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5卡露亚：奇袭战甲锻造图纸
+            lore:
+            - §f等级:20级以上可以使用
+            - §a锻造材料需求：
+            - §6灰色小晶块*64
+            - §6烈焰之岛符咒*32
+            - §6幸运女神的祝福*20
+            - §6中级融合剂*32
+            - §a材料掉落：均在20级副本可以获得
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+          damage: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §b20级紫装器灵
+            lore:
+            - §a>>>用途<<<
+            - §5可以用来锻造20级紫装的器灵
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_CHESTPLATE
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5卡露亚：奇袭
+            lore:
+            - §6品级：§5紫装
+            - §6[基础属性]
+            - §5●防御力:+4%
+            - §6[附加属性]
+            - §5●速度提升:+3%
+            - §5●闪避:+3%
+            - §5●生命回复:+2%
+            - §5●生命:+18
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §5卡露亚的贴身软甲
+            - §5据说可以提升移动速度
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 20'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5卡露亚：奇袭护腿锻造图纸
+            lore:
+            - §f等级:20级以上可以使用
+            - §a锻造材料需求：
+            - §6灰色小晶块*64
+            - §6烈焰之岛符咒*32
+            - §6幸运女神的祝福*20
+            - §6中级融合剂*32
+            - §a材料掉落：均在20级副本可以获得
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+          damage: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §b20级紫装器灵
+            lore:
+            - §a>>>用途<<<
+            - §5可以用来锻造20级紫装的器灵
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_LEGGINGS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5卡露亚：奇袭
+            lore:
+            - §6品级：§5紫装
+            - §6[基础属性]
+            - §5●防御力:+4%
+            - §6[附加属性]
+            - §5●速度提升:+3%
+            - §5●闪避:+3%
+            - §5●生命回复:+2%
+            - §5●生命:+18
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §5卡露亚的贴身软甲
+            - §5据说可以提升移动速度
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 20'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5卡露亚：奇袭战靴锻造图纸
+            lore:
+            - §f等级:20级以上可以使用
+            - §a锻造材料需求：
+            - §6灰色小晶块*64
+            - §6烈焰之岛符咒*32
+            - §6幸运女神的祝福*20
+            - §6中级融合剂*32
+            - §a材料掉落：均在20级副本可以获得
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+          damage: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §b20级紫装器灵
+            lore:
+            - §a>>>用途<<<
+            - §5可以用来锻造20级紫装的器灵
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_BOOTS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5卡露亚：奇袭
+            lore:
+            - §6品级：§5紫装
+            - §6[基础属性]
+            - §5●防御力:+4%
+            - §6[附加属性]
+            - §5●速度提升:+3%
+            - §5●闪避:+3%
+            - §5●生命回复:+2%
+            - §5●生命:+18
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §5卡露亚的贴身软甲
+            - §5据说可以提升移动速度
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 20'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+'6':
+  uniqueId: 26c8163d-7164-4ca4-9ed6-51dab4872e46
+  name: 30级紫装锻造商人
+  world: world
+  x: 827
+  y: 4
+  z: -149
+  type: admin
+  object: villager
+  uuid: af54c5e9-d917-2eb1-7512-28f84d5f4e50
+  prof: 1
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: STAINED_GLASS
+          damage: 5
+          amount: 64
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a绿色小晶块
+            lore:
+            - §aBOSS掉落的晶块
+            - §a可以用来锻造级装备
+            - §6用途:锻造装备需要锻造图纸
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: COAL
+          amount: 32
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §b雷鸣废墟玩具核心
+            lore:
+            - §a雷鸣废墟玩具傀儡掉落的玩具核心
+            - §a可以用来锻造级装备
+            - §6用途:锻造装备需要锻造图纸
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DEAD_BUSH
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §630级熔炼精华
+            lore:
+            - §a>>>用途<<<
+            - §5可用来锻造30级紫装
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SUGAR
+          amount: 32
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §b高级融合剂
+            lore:
+            - §a雷鸣废墟掉落的融合剂
+            - §a可以用来锻造级装备
+            - §6用途:锻造装备需要锻造图纸
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: EMERALD
+          amount: 60
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a幸运女神的祝福
+            lore:
+            - §a怪物掉落的材料
+            - §a可以用来锻造级装备
+            - §6用途:锻造装备需要锻造图纸
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: CAULDRON_ITEM
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §630级锻造池
+            lore:
+            - §a>>>用途<<<
+            - §5锻造30级装备的熔炼池
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: CAULDRON_ITEM
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §630级锻造池
+            lore:
+            - §a>>>用途<<<
+            - §5锻造30级装备的熔炼池
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DEAD_BUSH
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §630级熔炼精华
+            lore:
+            - §a>>>用途<<<
+            - §5可用来锻造30级紫装
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+          damage: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §630级紫装器灵
+            lore:
+            - §a>>>用途<<<
+            - §5可以用来锻造30级紫装的器灵
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5复仇之剑-夺魂者战剑锻造图纸
+            lore:
+            - §f等级:30级以上可以使用
+            - §a锻造材料需求：
+            - §6绿色小晶块*128
+            - §6雷鸣废墟玩具核心*64
+            - §6幸运女神的祝福*40
+            - §6高级融合剂*64
+            - §a材料掉落：均在30级副本可以获得
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+          damage: 3
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §630级紫装器灵
+            lore:
+            - §a>>>用途<<<
+            - §5可以用来锻造30级紫装的器灵
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: STONE_SWORD
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5复仇之剑-夺魂者
+            lore:
+            - §6品级：§5紫装
+            - §6[基础属性]
+            - §5●攻击力：+23-25
+            - §6[附加属性]
+            - §5●暴击几率:+9%
+            - §5●寒冰攻击:+6%
+            - §5●烈焰攻击:+3%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §5曾经的正义之剑
+            - §5因为仇恨，它选择了杀戮
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 30'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5复仇之剑-夺魂者*盔锻造图纸
+            lore:
+            - §f等级:30级以上可以使用
+            - §a锻造材料需求：
+            - §6绿色小晶块*64
+            - §6雷鸣废墟玩具核心*32
+            - §6幸运女神的祝福*20
+            - §6高级融合剂*32
+            - §a材料掉落：均在30级副本可以获得
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+          damage: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §630级紫装器灵
+            lore:
+            - §a>>>用途<<<
+            - §5可以用来锻造30级紫装的器灵
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: CHAINMAIL_HELMET
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5复仇之剑-夺魂者*盔
+            lore:
+            - §6品级：§5紫装
+            - §6[基础属性]
+            - §5●防御力:+5%
+            - §6[附加属性]
+            - §5●速度提升:+3%
+            - §5●闪避:+3%
+            - §5●生命回复:+2%
+            - §5●生命:+22
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §5曾经的正义审判
+            - §5因为仇恨，它选择了杀戮
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 30'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5复仇之剑-夺魂者*甲锻造图纸
+            lore:
+            - §f等级:30级以上可以使用
+            - §a锻造材料需求：
+            - §6绿色小晶块*64
+            - §6雷鸣废墟玩具核心*32
+            - §6幸运女神的祝福*20
+            - §6高级融合剂*32
+            - §a材料掉落：均在30级副本可以获得
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+          damage: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §630级紫装器灵
+            lore:
+            - §a>>>用途<<<
+            - §5可以用来锻造30级紫装的器灵
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: CHAINMAIL_CHESTPLATE
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5复仇之剑-夺魂者*甲
+            lore:
+            - §6品级：§5紫装
+            - §6[基础属性]
+            - §5●防御力:+5%
+            - §6[附加属性]
+            - §5●速度提升:+3%
+            - §5●闪避:+3%
+            - §5●生命回复:+2%
+            - §5●生命:+22
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §5曾经的正义审判
+            - §5因为仇恨，它选择了杀戮
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 30'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5复仇之剑-夺魂者*腿锻造图纸
+            lore:
+            - §f等级:30级以上可以使用
+            - §a锻造材料需求：
+            - §6绿色小晶块*64
+            - §6雷鸣废墟玩具核心*32
+            - §6幸运女神的祝福*20
+            - §6高级融合剂*32
+            - §a材料掉落：均在30级副本可以获得
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+          damage: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §630级紫装器灵
+            lore:
+            - §a>>>用途<<<
+            - §5可以用来锻造30级紫装的器灵
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: CHAINMAIL_LEGGINGS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5复仇之剑-夺魂者*裤
+            lore:
+            - §6品级：§5紫装
+            - §6[基础属性]
+            - §5●防御力:+5%
+            - §6[附加属性]
+            - §5●速度提升:+3%
+            - §5●闪避:+3%
+            - §5●生命回复:+2%
+            - §5●生命:+22
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §5曾经的正义审判
+            - §5因为仇恨，它选择了杀戮
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 30'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5复仇之剑-夺魂者*靴锻造图纸
+            lore:
+            - §f等级:30级以上可以使用
+            - §a锻造材料需求：
+            - §6绿色小晶块*64
+            - §6雷鸣废墟玩具核心*32
+            - §6幸运女神的祝福*20
+            - §6高级融合剂*32
+            - §a材料掉落：均在30级副本可以获得
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+          damage: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §630级紫装器灵
+            lore:
+            - §a>>>用途<<<
+            - §5可以用来锻造30级紫装的器灵
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: CHAINMAIL_BOOTS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5复仇之剑-夺魂者*靴
+            lore:
+            - §6品级：§5紫装
+            - §6[基础属性]
+            - §5●防御力:+5%
+            - §6[附加属性]
+            - §5●速度提升:+3%
+            - §5●闪避:+3%
+            - §5●生命回复:+2%
+            - §5●生命:+22
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §5曾经的正义审判
+            - §5因为仇恨，它选择了杀戮
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 30'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+'7':
+  uniqueId: 138c8917-c23c-469d-b6fb-73d6dab33a02
+  name: 药剂商人
+  world: world
+  x: 832
+  y: 4
+  z: -138
+  type: admin
+  object: villager
+  uuid: 61fa8b71-b8c6-adf3-b7aa-828dba2d3127
+  prof: 3
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_NUGGET
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹碎金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6拿着它去钱庄可以换到完整的黄金
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BLAZE_POWDER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §0§0§0§0§0§0§0§7§7§l§a低级HP药剂
+            lore:
+            - §b§l§o§a§m§7§f§9§0§0§0§0§0§0§0§5§f§a可以恢复血量的神奇药剂     §a消耗品§c§a§f§e§0§0§0§0
+            - §a获得 庇护祝福 4 持续 10.0 秒
+            - §a使用后消耗掉
+            - §f§6描述:持续10秒回血33秒
+            - §f§6冷却时间：20秒
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹黄金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6虽说钱财乃身外之物，但是没钱的话，那是万万不行滴
+            - §a拿着它去钱庄可以兑换游戏币
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BLAZE_POWDER
+          amount: 32
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §0§0§0§0§0§0§0§7§7§l§a低级HP药剂
+            lore:
+            - §b§l§o§a§m§7§f§9§0§0§0§0§0§0§0§5§f§a可以恢复血量的神奇药剂     §a消耗品§c§a§f§e§0§0§0§0
+            - §a获得 庇护祝福 4 持续 10.0 秒
+            - §a使用后消耗掉
+            - §f§6描述:持续10秒回血33秒
+            - §f§6冷却时间：20秒
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_NUGGET
+          amount: 8
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹碎金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6拿着它去钱庄可以换到完整的黄金
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: MAGMA_CREAM
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §0§0§0§0§0§0§0§8§7§l§a中级HP药剂
+            lore:
+            - §b§l§o§a§m§7§f§9§0§0§0§0§0§0§0§5§f§a可以恢复血量的神奇药剂     §a消耗品§c§a§f§e§0§0§0§0
+            - §a获得 庇护祝福 4 持续 20.0 秒
+            - §a使用后消耗掉
+            - §f§6药效:持续20秒回血66点
+            - §f§6冷却时间：40秒
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹黄金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6虽说钱财乃身外之物，但是没钱的话，那是万万不行滴
+            - §a拿着它去钱庄可以兑换游戏币
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: MAGMA_CREAM
+          amount: 32
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §0§0§0§0§0§0§0§8§7§l§a中级HP药剂
+            lore:
+            - §b§l§o§a§m§7§f§9§0§0§0§0§0§0§0§5§f§a可以恢复血量的神奇药剂     §a消耗品§c§a§f§e§0§0§0§0
+            - §a获得 庇护祝福 4 持续 20.0 秒
+            - §a使用后消耗掉
+            - §f§6药效:持续20秒回血66点
+            - §f§6冷却时间：40秒
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹黄金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6虽说钱财乃身外之物，但是没钱的话，那是万万不行滴
+            - §a拿着它去钱庄可以兑换游戏币
+            enchants:
+              ARROW_DAMAGE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: STAINED_GLASS
+          damage: 8
+          amount: 5
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a灰色小晶块
+            lore:
+            - §aBOSS掉落的晶块
+            - §a可以用来锻造级装备
+            - §6用途:锻造装备需要锻造图纸
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SLIME_BALL
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6珑璃的心脏
+            lore:
+            - §a【任务物品】
+            - §a用途:完成某些剧情任务所需
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 10
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹黄金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6虽说钱财乃身外之物，但是没钱的话，那是万万不行滴
+            - §a拿着它去钱庄可以兑换游戏币
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+          damage: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a烈酒
+            lore:
+            - §a猎人任务物品
+'8':
+  uniqueId: dbc5fc14-d100-465a-8df8-a6ba39619f0d
+  name: 游手好闲的斯洛特
+  world: world
+  x: 769
+  y: 4
+  z: -199
+  type: admin
+  object: villager
+  uuid: 0d982dbd-2dbb-4b04-ec08-719bec170ac5
+  prof: 3
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            - §a请在主城周围找到游手好闲的斯洛特
+            - §a开启下一阶段任务
+            title: 找到游手好闲的斯洛特
+            author: Max_Joine
+            pages:
+            - "任务起点\n游手好闲的斯洛特\n\n任务描述\n真是太感谢你了。我要启程回家了，你去找斯洛特吧，他也许有些事情需要你帮忙，嘿嘿嘿嘿\n\
+              如果你能帮到他，他会给你奖励的哦。\n\n\n                    "
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 神秘的宝贝
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              游手好闲的斯洛特
+
+              任务描述
+              哎哟，我很焦灼啊，又没有钱花了。隔壁的翠花还等着我去捧场呢。
+              这位勇士，你有钱吗，你要是可以给我一点黄金，我一定给你丰厚的回报。
+              我:我有黄金，你能给我什么奖励呢
+                                  下一页
+            - |-
+              斯洛特:你这是质疑我的人品啊，妈蛋，我这么潇洒的人，怎么会骗你。
+              我:没见你潇洒啊，长的跟个猴子似的，好吧，说正事，你能给我什么奖励
+              斯洛特:你全家都是猴子，娘了个皮的，这样，你给我20个苍穹黄金，我给你一个宝贝。
+              我:什么宝贝？
+              斯洛特:你把钱给我就知道了
+              我:姑且相信你一回
+                                 下一页
+            - |-
+              任务需求:
+              20个苍穹黄金
+
+              任务奖励
+              神秘的宝贝疙瘩
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 神秘的宝贝
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              游手好闲的斯洛特
+
+              任务描述
+              哎哟，我很焦灼啊，又没有钱花了。隔壁的翠花还等着我去捧场呢。
+              这位勇士，你有钱吗，你要是可以给我一点黄金，我一定给你丰厚的回报。
+              我:我有黄金，你能给我什么奖励呢
+                                  下一页
+            - |-
+              斯洛特:你这是质疑我的人品啊，妈蛋，我这么潇洒的人，怎么会骗你。
+              我:没见你潇洒啊，长的跟个猴子似的，好吧，说正事，你能给我什么奖励
+              斯洛特:你全家都是猴子，娘了个皮的，这样，你给我20个苍穹黄金，我给你一个宝贝。
+              我:什么宝贝？
+              斯洛特:你把钱给我就知道了
+              我:姑且相信你一回
+                                 下一页
+            - |-
+              任务需求:
+              20个苍穹黄金
+
+              任务奖励
+              神秘的宝贝疙瘩
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 20
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹黄金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6虽说钱财乃身外之物，但是没钱的话，那是万万不行滴
+            - §a拿着它去钱庄可以兑换游戏币
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【神秘的宝贝】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【神秘的宝贝】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: CLAY_BALL
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: 神秘的宝贝
+            lore:
+            - 神秘的宝贝
+            - §a【任务物品】
+            - §a这东西城主任务会要用到，请勿遗失！
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【神秘的宝贝】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 20级紫装器灵
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              游手好闲的斯洛特
+
+              任务描述
+              小伙子啊，不说我说你，叫你多给点钱我，你偏不给。20个黄金我一把就输完了，第二把我明明想压大100个黄金，可是我没钱了，他就开了一个大。唉，你说你要是多给我一点多好，我就赚了80个黄金了，分你40个也好啊。
+                                下一页
+            - |-
+              我:.......................
+
+              这样，你帮我弄一只20级紫装器灵来，我去卖点钱了就把你的钱还给你，怎么样
+
+              任务需求
+              20级紫装器灵
+
+              任务奖励
+              苍穹黄金*20
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 20级紫装器灵
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              游手好闲的斯洛特
+
+              任务描述
+              小伙子啊，不说我说你，叫你多给点钱我，你偏不给。20个黄金我一把就输完了，第二把我明明想压大100个黄金，可是我没钱了，他就开了一个大。唉，你说你要是多给我一点多好，我就赚了80个黄金了，分你40个也好啊。
+                                下一页
+            - |-
+              我:.......................
+
+              这样，你帮我弄一只20级紫装器灵来，我去卖点钱了就把你的钱还给你，怎么样
+
+              任务需求
+              20级紫装器灵
+
+              任务奖励
+              苍穹黄金*20
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+          damage: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §b20级紫装器灵
+            lore:
+            - §a>>>用途<<<
+            - §5可以用来锻造20级紫装的器灵
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【20级紫装器灵】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【20级紫装器灵】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 20
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹黄金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6虽说钱财乃身外之物，但是没钱的话，那是万万不行滴
+            - §a拿着它去钱庄可以兑换游戏币
+            enchants:
+              ARROW_DAMAGE: 1
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【20级紫装器灵】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 引荐城主斯洛亚
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              游手好闲的斯洛特
+
+              任务描述
+              小伙子，你很不错，虽然我天天游手好闲，但是我看人还是很准的。
+              我这么百般刁难你，你还是完成了我交给你的任务，
+              我决定要给你一个天大的机遇
+              没错，就是引荐城主给你认识
+                                 下一页
+            - |-
+              你知道为什么我可以给你引荐城主吗？
+
+              哈哈哈哈，因为我TMD就是城主斯洛亚的哥哥啦。
+
+              任务需求
+              无
+
+              任务奖励
+              斯洛亚的引荐信
+'9':
+  uniqueId: 11262822-e5e3-4949-843e-e7fce4cc223f
+  name: MC物语接引人
+  world: world
+  x: 803
+  y: 5
+  z: -143
+  type: admin
+  object: villager
+  uuid: 2e8c1aa2-7710-f2e2-5196-4a6ceb3965f0
+  prof: 3
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【开始冒险】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详情
+            - §4请勿遗失，遗失后主线任务将会中断
+            title: 新手任务【开始冒险】
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点:
+              地下勇者接引人
+
+              任务描述:
+              通关新手副本【室外桃源】
+              【右键时钟或输入/cd】
+              即可打开传送菜单
+              获得任务物品
+              野猪的皮毛*32
+              然后交给地下勇者接引人
+              就可以获得下一段任务
+              奖励:
+              苍穹碎金*10 [可卖给钱庄]
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【获得第一件蓝装】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER
+          amount: 16
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a野猪的皮毛
+            lore:
+            - §a野狼掉落的皮毛
+            - §a可以用来锻造级装备
+            - §6用途:锻造装备需要锻造图纸
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【开始冒险】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 获得第一件蓝装
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              地下勇者接引人
+
+              任务描述
+              看来是我小看你了。
+              这么快就给我带了野猪皮毛
+
+              我这里有一个比较难的任务
+              你敢接吗。
+              我:切，还有本帅哥不敢接的任务？
+
+                             点箭头翻页
+            - |-
+              我:尽管放马过来吧，娘了个皮的，你个老头居然瞧不起我
+
+              那好，你如果能给我带来一把
+              10级的蓝装【迪拉瑞之剑】
+              我就给你更好的任务
+              任务物品
+              10级蓝装【迪拉瑞之剑】*1
+              交给地下勇者接引人
+              即可完成任务
+              奖励:
+              美味的牛排*20
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SEEDS
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §0§0§0§0§0§0§0§6§7§l§a低级经验丹
+            lore:
+            - §b§l§o§a§m§7§f§9§0§0§0§0§0§0§0§6§f§6请勿狂吃经验丹，会流失药效     §a消耗品§c§a§f§e§0§0§0§0
+            - §a右键使用
+            - §a使用后消耗掉
+            - §f§a食用后增加50点经验值
+            - §f§4建议2秒钟吃一颗
+            - §f§4你狂吃的话会丹药少了经验没变
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【开始冒险】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 获得第一件蓝装
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              地下勇者接引人
+
+              任务描述
+              看来是我小看你了。
+              这么快就给我带了野猪皮毛
+
+              我这里有一个比较难的任务
+              你敢接吗。
+              我:切，还有本帅哥不敢接的任务？
+
+                             点箭头翻页
+            - |-
+              我:尽管放马过来吧，娘了个皮的，你个老头居然瞧不起我
+
+              那好，你如果能给我带来一把
+              10级的蓝装【迪拉瑞之剑】
+              我就给你更好的任务
+              任务物品
+              10级蓝装【迪拉瑞之剑】*1
+              交给地下勇者接引人
+              即可完成任务
+              奖励:
+              美味的牛排*20
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a新手任务卡
+            lore:
+            - §a携带此物品前去找地下物语接引人
+            - §6开启你人生中第一次冒险
+            - §a去吧，小伙子，你可以的
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【获得第一件蓝装】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详情
+            - §4请勿遗失，遗失后主线任务将会中断
+            title: 新手任务【开始冒险】
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点:
+              地下勇者接引人
+
+              任务描述:
+              通关新手副本【室外桃源】
+              【右键时钟或输入/cd】
+              即可打开传送菜单
+              获得任务物品
+              野猪的皮毛*32
+              然后交给地下勇者接引人
+              就可以获得下一段任务
+              奖励:
+              苍穹碎金*10 [可卖给钱庄]
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WOOD_SWORD
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §9迪拉瑞之剑
+            lore:
+            - §6品级：§9蓝装
+            - §6[基础属性]
+            - §a●攻击力：+7-11
+            - §6[附加属性]
+            - §9●暴击几率:+6%
+            - §9●寒冰攻击:+3%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §9迪拉瑞的佩剑
+            - §9在10级副本有几率掉落
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 10'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SEEDS
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §0§0§0§0§0§0§0§6§7§l§a低级经验丹
+            lore:
+            - §b§l§o§a§m§7§f§9§0§0§0§0§0§0§0§6§f§6请勿狂吃经验丹，会流失药效     §a消耗品§c§a§f§e§0§0§0§0
+            - §a右键使用
+            - §a使用后消耗掉
+            - §f§a食用后增加50点经验值
+            - §f§4建议2秒钟吃一颗
+            - §f§4你狂吃的话会丹药少了经验没变
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【获得第一件蓝装】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            - §a请在钱庄后面找到落魄的铁匠林纳斯
+            - §a开启下一阶段任务
+            title: 第二件蓝装
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点:
+              落魄的铁匠林纳斯
+
+              任务描述
+              小伙子，听说你帮地下勇者接引人找到了一把蓝色的武器？
+              好吧，这足以证明你的实力。
+              我也想要一件蓝色的护甲送给我的妻子，不知道你可否......我:不就是蓝装吗，小意思的啦。我这就给你搞一件来。
+                                  下一页
+            - |-
+              任务物品
+              蓝装护甲【迪瑞拉护甲】
+
+              任务奖励
+              苍穹碎金*8 【可卖给钱庄】
+'10':
+  uniqueId: 0692318f-e75b-4ec1-90fe-5064b6865d4b
+  name: 落魄的铁匠林纳斯
+  world: world
+  x: 819
+  y: 5
+  z: -127
+  type: admin
+  object: villager
+  uuid: d2b91af6-7deb-4c2b-e721-7a935f9a687c
+  prof: 0
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            - §a请在钱庄后面找到落魄的铁匠林纳斯
+            - §a开启下一阶段任务
+            title: 第二件蓝装
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点:
+              落魄的铁匠林纳斯
+
+              任务描述
+              小伙子，听说你帮地下勇者接引人找到了一把蓝色的武器？
+              好吧，这足以证明你的实力。
+              我也想要一件蓝色的护甲送给我的妻子，不知道你可否......我:不就是蓝装吗，小意思的啦。我这就给你搞一件来。
+                                  下一页
+            - |-
+              任务物品
+              蓝装护甲【迪瑞拉护甲】
+
+              任务奖励
+              苍穹碎金*8 【可卖给钱庄】
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER_CHESTPLATE
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §9迪瑞拉战甲
+            lore:
+            - §6品级：§9蓝装
+            - §6[基础属性]
+            - §9●防御力:+2%
+            - §6[附加属性]
+            - §9●速度提升:+2%
+            - §9●闪避:+2%
+            - §9●生命:+10
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §9迪瑞拉的护体战甲
+            - §9在10级副本有几率掉落
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 10'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【第二件蓝装】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【第二件蓝装】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SEEDS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §0§0§0§0§0§0§0§6§7§l§a低级经验丹
+            lore:
+            - §b§l§o§a§m§7§f§9§0§0§0§0§0§0§0§6§f§6请勿狂吃经验丹，会流失药效     §a消耗品§c§a§f§e§0§0§0§0
+            - §a右键使用
+            - §a使用后消耗掉
+            - §f§a食用后增加50点经验值
+            - §f§4建议2秒钟吃一颗
+            - §f§4你狂吃的话会丹药少了经验没变
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【第二件蓝装】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 紫色的武器
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              落魄的铁匠林纳斯
+
+              任务描述
+              勇士，你已经有资格成为一名合格的战士了。
+              那么我们有一个重要的任务想要托付给你，你一定可以完成的，对吗！
+              我们的城镇遭到攻击，我们需要一批紫色的精良武器
+              你可以为我们找到吗
+                                 下一页
+            - |-
+              任务需求
+              紫色武器-奥斯卡战剑
+              10级副本精英以及BOSS掉落
+
+              任务奖励
+              低级经验丹*3
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 紫色的武器
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              落魄的铁匠林纳斯
+
+              任务描述
+              勇士，你已经有资格成为一名合格的战士了。
+              那么我们有一个重要的任务想要托付给你，你一定可以完成的，对吗！
+              我们的城镇遭到攻击，我们需要一批紫色的精良武器
+              你可以为我们找到吗
+                                 下一页
+            - |-
+              任务需求
+              紫色武器-奥斯卡战剑
+              10级副本精英以及BOSS掉落
+
+              任务奖励
+              低级经验丹*3
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WOOD_SWORD
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5奥斯卡战剑
+            lore:
+            - §6品级：§5紫装
+            - §6[基础属性]
+            - §5●攻击力：+8-13
+            - §6[附加属性]
+            - §5●暴击几率:+9%
+            - §5●寒冰攻击:+6%
+            - §5●烈焰攻击:+3%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §5侍卫长奥斯卡的佩剑
+            - §5一直不见踪迹，原来遗失在了世外桃源
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 10'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【紫色的武器】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【紫色的武器】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SEEDS
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §0§0§0§0§0§0§0§6§7§l§a低级经验丹
+            lore:
+            - §b§l§o§a§m§7§f§9§0§0§0§0§0§0§0§6§f§6请勿狂吃经验丹，会流失药效     §a消耗品§c§a§f§e§0§0§0§0
+            - §a右键使用
+            - §a使用后消耗掉
+            - §f§a食用后增加50点经验值
+            - §f§4建议2秒钟吃一颗
+            - §f§4你狂吃的话会丹药少了经验没变
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【紫色的武器】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            - §a请到维纳斯后面找到物资管理员莎兰
+            - §a开启下一阶段任务
+            title: 紫色的衣服
+            author: Max_Joine
+            pages:
+            - "任务起点\n落魄的铁匠林纳斯\n\n任务描述\n非常好，感谢你为我们城镇带来的精良的装备，我相信我们已经可以击杀所有来犯之敌了。\n但\
+              是，我们的武器强大了，还缺少一些护甲，你可以为我们招来一点紫色的护甲吗，我们会给你丰厚的奖励 \n                  \
+              \  下一页"
+            - |-
+              任务需求
+              紫色护甲-奥斯卡护甲
+
+              任务奖励
+              低级经验丹*3
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            - §a请到维纳斯后面找到物资管理员莎兰
+            - §a开启下一阶段任务
+            title: 紫色的衣服
+            author: Max_Joine
+            pages:
+            - "任务起点\n落魄的铁匠林纳斯\n\n任务描述\n非常好，感谢你为我们城镇带来的精良的装备，我相信我们已经可以击杀所有来犯之敌了。\n但\
+              是，我们的武器强大了，还缺少一些护甲，你可以为我们招来一点紫色的护甲吗，我们会给你丰厚的奖励 \n                  \
+              \  下一页"
+            - |-
+              任务需求
+              紫色护甲-奥斯卡护甲
+
+              任务奖励
+              低级经验丹*3
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER_CHESTPLATE
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §5奥斯卡战甲
+            lore:
+            - §6品级：§5紫装
+            - §6[基础属性]
+            - §5●防御力:+3%
+            - §6[附加属性]
+            - §5●速度提升:+3%
+            - §5●闪避:+3%
+            - §5●生命回复:+2%
+            - §5●生命:+15
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §5侍卫长奥斯卡的护甲
+            - §5一直不见踪迹，原来遗失在了室外桃源
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 10'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【紫色的衣服】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+'11':
+  uniqueId: c6c94ed1-e61a-475c-8e77-b2eaba6841c4
+  name: 物资管理员莎兰
+  world: world
+  x: 827
+  y: 4
+  z: -120
+  type: admin
+  object: villager
+  uuid: 6ab2fd3f-6a56-9030-079e-dcae8ec7cb0e
+  prof: 1
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【紫色的衣服】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SEEDS
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §0§0§0§0§0§0§0§6§7§l§a低级经验丹
+            lore:
+            - §b§l§o§a§m§7§f§9§0§0§0§0§0§0§0§6§f§6请勿狂吃经验丹，会流失药效     §a消耗品§c§a§f§e§0§0§0§0
+            - §a右键使用
+            - §a使用后消耗掉
+            - §f§a食用后增加50点经验值
+            - §f§4建议2秒钟吃一颗
+            - §f§4你狂吃的话会丹药少了经验没变
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【紫色的衣服】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 找到幸运女神的祝福*20
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              物资管理员莎兰
+
+              任务描述
+              听说是你给我们带来了大量的装备物资,我代表地下勇者全体成员感谢你的帮助
+
+              我们现在需要一批物资来维持部队的补给，你可以给我们找来一些幸运女神的祝福吗
+
+                               下一页
+            - |-
+              任务需求
+              幸运女神的祝福*20
+
+              任务奖励
+              暴走药水*1
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 找到幸运女神的祝福*20
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              物资管理员莎兰
+
+              任务描述
+              听说是你给我们带来了大量的装备物资,我代表地下勇者全体成员感谢你的帮助
+
+              我们现在需要一批物资来维持部队的补给，你可以给我们找来一些幸运女神的祝福吗
+
+                               下一页
+            - |-
+              任务需求
+              幸运女神的祝福*20
+
+              任务奖励
+              暴走药水*1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: EMERALD
+          amount: 20
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a幸运女神的祝福
+            lore:
+            - §a怪物掉落的材料
+            - §a可以用来锻造级装备
+            - §6用途:锻造装备需要锻造图纸
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【幸运女神的祝福】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【幸运女神的祝福】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 8233
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §6暴走药水
+            lore:
+            - §e牛头部落制作的狂暴药水
+            - §6使用后增加狂暴效果
+            - '§6药效：:狂暴3分钟 '
+            - §6狂暴效果:伤害附加260%
+            - §a出门旅行，打家劫舍，必备之良品
+            custom-effects:
+            - ==: PotionEffect
+              effect: 5
+              duration: 3600
+              amplifier: 1
+              ambient: false
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【幸运女神的祝福】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 第一把粉色武器
+            author: Max_Joine
+            pages:
+            - "任务起点\n物资管理员莎兰\n\n任务描述\n我们的军团受到了幸运女神的祝福，已经战无不胜，攻无不克。\n现在我们准备杀向敌后，但是我\
+              们的战将需要更好的武器，才能有把握获胜。\n你能为我们找到粉色的武器吗 \n                   下一页"
+            - |-
+              任务需求
+              粉装-闪耀的阿隆特战剑
+
+              任务奖励
+              低级经验丹*3
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 第一把粉色武器
+            author: Max_Joine
+            pages:
+            - "任务起点\n物资管理员莎兰\n\n任务描述\n我们的军团受到了幸运女神的祝福，已经战无不胜，攻无不克。\n现在我们准备杀向敌后，但是我\
+              们的战将需要更好的武器，才能有把握获胜。\n你能为我们找到粉色的武器吗 \n                   下一页"
+            - |-
+              任务需求
+              粉装-闪耀的阿隆特战剑
+
+              任务奖励
+              低级经验丹*3
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WOOD_SWORD
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §d闪耀的阿隆戴特战剑
+            lore:
+            - §6品级：§d粉装
+            - §6[基础属性]
+            - §d●攻击力：+19-20
+            - §6[附加属性]
+            - §d●嗜血:+10%
+            - §d●暴击几率:+12%
+            - §d●寒冰攻击:+10%
+            - §d●烈焰攻击:+10%
+            - §d●剧毒攻击:+10%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §d侍卫长奥斯卡的佩剑
+            - §d一直不见踪迹，原来遗失在了世外桃源
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - §e[§a无§6上§b神§d武§e]
+            - §a无§e等§b级§c限§d制
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【第一件粉装】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【第一件粉装】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SEEDS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §0§0§0§0§0§0§0§6§7§l§a低级经验丹
+            lore:
+            - §b§l§o§a§m§7§f§9§0§0§0§0§0§0§0§6§f§6请勿狂吃经验丹，会流失药效     §a消耗品§c§a§f§e§0§0§0§0
+            - §a右键使用
+            - §a使用后消耗掉
+            - §f§a食用后增加50点经验值
+            - §f§4建议2秒钟吃一颗
+            - §f§4你狂吃的话会丹药少了经验没变
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【第一件粉装】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            - §a请到物资管理员莎兰前面找到军团长哥伦特
+            - §a开启下一阶段任务
+            title: 第二件粉装
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              军团长哥伦特
+
+              任务描述
+              在上次的冲锋中，我损坏了我的护甲。你能给我找来一件粉色的战甲吗。不然下次战斗我估计要战死的战场上了。
+              救人一命胜造七级浮屠。小伙子，你献爱心的时候到了
+
+                                下一页
+            - |-
+              任务需求
+              粉装-闪耀的阿隆特战甲
+
+              任务奖励
+              段位灵晶*3
+'12':
+  uniqueId: fed938d4-ce58-488f-b462-9cea41472ff2
+  name: 受伤的士兵
+  world: world
+  x: 781
+  y: 4
+  z: -165
+  type: admin
+  object: villager
+  uuid: 69f578b6-1540-be54-24ee-50246b2e747b
+  prof: 0
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【20级蓝色武器】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+            - §a请在交易所附近找到受伤的士兵
+            - §a开启下一阶段任务
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §0§0§0§0§0§0§0§e§7§l§e无上荣耀-勇者战将
+            lore:
+            - §b§l§o§a§m§7§f§9§0§0§0§0§0§0§0§4§f§a右键使用即可获得无上荣耀     §e称号卡§c§a§f§e§0§0§0§0
+            - §a.
+            - §a使用后消耗掉
+            - §f§6来吧，接受属于你的荣耀
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【20级蓝色武器】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+            - §a请在交易所附近找到受伤的士兵
+            - §a开启下一阶段任务
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 受伤的士兵
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              受伤的士兵
+
+              任务描述
+              我们的军团在上一次的战斗中，因为指挥官的失误，导致全军覆没，仅剩我一人拖着伤痕累累的身躯回到了驻地。
+              我可能活不久了，但我还想看看我的妻子和孩子，不知道你能不能帮我找来一些药材，让我足以支撑我回到我的家乡
+                                  下一页
+            - |-
+              任务需求
+              请到药剂商人那里为受伤的士兵买到10份珑璃的心脏，然后交给受伤的士兵
+
+              任务奖励
+              经验丹*5
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 受伤的士兵
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              受伤的士兵
+
+              任务描述
+              我们的军团在上一次的战斗中，因为指挥官的失误，导致全军覆没，仅剩我一人拖着伤痕累累的身躯回到了驻地。
+              我可能活不久了，但我还想看看我的妻子和孩子，不知道你能不能帮我找来一些药材，让我足以支撑我回到我的家乡
+                                  下一页
+            - |-
+              任务需求
+              请到药剂商人那里为受伤的士兵买到10份珑璃的心脏，然后交给受伤的士兵
+
+              任务奖励
+              经验丹*5
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SLIME_BALL
+          amount: 10
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6珑璃的心脏
+            lore:
+            - §a【任务物品】
+            - §a用途:完成某些剧情任务所需
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【受伤的士兵】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【受伤的士兵】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SEEDS
+          amount: 5
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §0§0§0§0§0§0§0§6§7§l§a低级经验丹
+            lore:
+            - §b§l§o§a§m§7§f§9§0§0§0§0§0§0§0§6§f§6请勿狂吃经验丹，会流失药效     §a消耗品§c§a§f§e§0§0§0§0
+            - §a右键使用
+            - §a使用后消耗掉
+            - §f§a食用后增加50点经验值
+            - §f§4建议2秒钟吃一颗
+            - §f§4你狂吃的话会丹药少了经验没变
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【受伤的士兵】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            display-name: 绝刀-红莲天舞战剑
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 20武器-绝刀-
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              受伤的士兵
+
+              任务秒速
+              太好了，谢谢你为我带来了这么珍贵的药材，
+              我终于可以回家了，但是我回家一路上魔兽横行，我需要一把武器防身才可以。
+              你能为我找来一把20级的紫色武器吗。
+
+                                下一页
+            - |-
+              任务需求
+              20级-绝刀-红莲天舞战剑
+
+              任务奖励
+              经验丹*5
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            display-name: 绝刀-红莲天舞战剑
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 20武器-绝刀-
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              受伤的士兵
+
+              任务秒速
+              太好了，谢谢你为我带来了这么珍贵的药材，
+              我终于可以回家了，但是我回家一路上魔兽横行，我需要一把武器防身才可以。
+              你能为我找来一把20级的紫色武器吗。
+
+                                下一页
+            - |-
+              任务需求
+              20级-绝刀-红莲天舞战剑
+
+              任务奖励
+              经验丹*5
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_SWORD
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5绝刀-红莲天舞战剑
+            lore:
+            - §6品级：§5紫装
+            - §6[基础属性]
+            - §5●攻击力：+15-17
+            - §6[附加属性]
+            - §5●暴击几率:+9%
+            - §5●寒冰攻击:+6%
+            - §5●烈焰攻击:+3%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §5万年死火山突然霞光万丈，岩浆爆发
+            - §5待一切平静后，焚天剑独自悬浮在火山口
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 20'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【绝刀-红莲天舞战剑】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【绝刀-红莲天舞战剑】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SEEDS
+          amount: 5
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §0§0§0§0§0§0§0§6§7§l§a低级经验丹
+            lore:
+            - §b§l§o§a§m§7§f§9§0§0§0§0§0§0§0§6§f§6请勿狂吃经验丹，会流失药效     §a消耗品§c§a§f§e§0§0§0§0
+            - §a右键使用
+            - §a使用后消耗掉
+            - §f§a食用后增加50点经验值
+            - §f§4建议2秒钟吃一颗
+            - §f§4你狂吃的话会丹药少了经验没变
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【绝刀-红莲天舞战剑】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            - §a请在主城周围找到游手好闲的斯洛特
+            - §a开启下一阶段任务
+            title: 找到游手好闲的斯洛特
+            author: Max_Joine
+            pages:
+            - "任务起点\n游手好闲的斯洛特\n\n任务描述\n真是太感谢你了。我要启程回家了，你去找斯洛特吧，他也许有些事情需要你帮忙，嘿嘿嘿嘿\n\
+              如果你能帮到他，他会给你奖励的哦。\n\n\n                    "
+'13':
+  uniqueId: e7c43187-a9c6-4293-a8fc-739677778849
+  name: 忧伤的城主斯洛亚
+  world: world
+  x: 744
+  y: 4
+  z: -193
+  type: admin
+  object: villager
+  uuid: bdc9e203-98ac-db76-0b8f-7c8b5806f010
+  prof: 0
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 引荐城主斯洛亚
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              游手好闲的斯洛特
+
+              任务描述
+              小伙子，你很不错，虽然我天天游手好闲，但是我看人还是很准的。
+              我这么百般刁难你，你还是完成了我交给你的任务，
+              我决定要给你一个天大的机遇
+              没错，就是引荐城主给你认识
+                                 下一页
+            - |-
+              你知道为什么我可以给你引荐城主吗？
+
+              哈哈哈哈，因为我TMD就是城主斯洛亚的哥哥啦。
+
+              任务需求
+              无
+
+              任务奖励
+              斯洛亚的引荐信
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            - §a请在坐标+774 -190 找到城主斯洛亚
+            - §a开启下一阶段任务
+            title: 城主斯洛亚的引荐信
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              城主斯洛亚
+
+              任务描述
+              找到城主斯洛亚，将这封信交给他。
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            - §a请在坐标+774 -190 找到城主斯洛亚
+            - §a开启下一阶段任务
+            title: 城主斯洛亚的引荐信
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              城主斯洛亚
+
+              任务描述
+              找到城主斯洛亚，将这封信交给他。
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 丢失的官印
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              城主斯洛亚
+
+              任务描述
+              唉，我那个不成器的哥哥把我的城主官印给弄丢了
+              马上上面会有人下来巡查，完了完了，我这城主不保了。
+
+              我:你哥哥是不是斯洛特
+              斯洛亚:对，你认识 ？？？
+              我:他给了我一个神秘的宝贝
+              不知道是啥玩意     下一页
+            - |-
+              斯洛亚:快，快，快拿出来我看看我:.....................给你。就是这个
+              斯洛亚:没错，没错，哈哈，就是他，太好了，太好了，我要怎么谢谢你才好呢，这样把，我给你加官进爵，就授予你勇者男爵称号好了、
+
+              任务需求
+              神秘的宝贝
+
+              任务奖励
+              勇者男爵称号
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 丢失的官印
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              城主斯洛亚
+
+              任务描述
+              唉，我那个不成器的哥哥把我的城主官印给弄丢了
+              马上上面会有人下来巡查，完了完了，我这城主不保了。
+
+              我:你哥哥是不是斯洛特
+              斯洛亚:对，你认识 ？？？
+              我:他给了我一个神秘的宝贝
+              不知道是啥玩意     下一页
+            - |-
+              斯洛亚:快，快，快拿出来我看看我:.....................给你。就是这个
+              斯洛亚:没错，没错，哈哈，就是他，太好了，太好了，我要怎么谢谢你才好呢，这样把，我给你加官进爵，就授予你勇者男爵称号好了、
+
+              任务需求
+              神秘的宝贝
+
+              任务奖励
+              勇者男爵称号
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: CLAY_BALL
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: 神秘的宝贝
+            lore:
+            - 神秘的宝贝
+            - §a【任务物品】
+            - §a这东西城主任务会要用到，请勿遗失！
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【丢失的官印】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【丢失的官印】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: CLAY_BRICK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §0§0§0§0§0§0§0§f§7§l§a加官进爵
+            lore:
+            - §b§l§o§a§m§7§f§9§0§0§0§0§0§0§0§6§f§a城主授予的爵位，这是荣耀的象征     §a爵位卡§c§a§f§e§0§0§0§0
+            - §a获得 枯木逢春 2 持续 20.0 秒
+            - §a.
+            - §a使用后消耗掉
+            - §f§a右键使用即可获得称号
+            - §f§a同时加持20秒无敌
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【丢失的官印】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 雷鸣废墟的玩具核心
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              忧伤的城主斯洛亚
+
+              任务描述
+              我们的城镇防御需要能量来维持，可是眼看我们的能量越来越少，你可能帮我找来一点能量源吗？
+              听说雷鸣废墟的玩具士兵身上的核心拥有大量的能量。
+              你去帮我收集32个带给我吧
+
+                                  下一页
+            - |-
+              任务需求
+              雷鸣废墟的玩具核心
+
+              任务奖励
+              经验丹*5
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 雷鸣废墟的玩具核心
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              忧伤的城主斯洛亚
+
+              任务描述
+              我们的城镇防御需要能量来维持，可是眼看我们的能量越来越少，你可能帮我找来一点能量源吗？
+              听说雷鸣废墟的玩具士兵身上的核心拥有大量的能量。
+              你去帮我收集32个带给我吧
+
+                                  下一页
+            - |-
+              任务需求
+              雷鸣废墟的玩具核心
+
+              任务奖励
+              经验丹*5
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: COAL
+          amount: 32
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §b雷鸣废墟玩具核心
+            lore:
+            - §a雷鸣废墟玩具傀儡掉落的玩具核心
+            - §a可以用来锻造级装备
+            - §6用途:锻造装备需要锻造图纸
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【雷鸣废墟的玩具核心】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【雷鸣废墟的玩具核心】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SEEDS
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §0§0§0§0§0§0§0§6§7§l§a低级经验丹
+            lore:
+            - §b§l§o§a§m§7§f§9§0§0§0§0§0§0§0§6§f§6请勿狂吃经验丹，会流失药效     §a消耗品§c§a§f§e§0§0§0§0
+            - §a右键使用
+            - §a使用后消耗掉
+            - §f§a食用后增加50点经验值
+            - §f§4建议2秒钟吃一颗
+            - §f§4你狂吃的话会丹药少了经验没变
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【雷鸣废墟的玩具核心】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            - §a然后在城门方向找到主城守备队长格拉
+            - §a开启下一阶段任务
+            title: 找军团长拿到段位灵晶
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              忧伤的城主斯洛亚
+
+              任务描述
+              太好了，谢谢你为我带来了足够的核心能量，这下可以支撑一阵子了。
+              对了，最近很多勇士之前段位排名空前火热，我的一个远房表亲的儿子准备参加这次段位赛，不知道你能不能帮我找来一点段位灵晶呢。
+                                  下一页
+            - |-
+              任务需求
+              段位灵晶
+              【听说军团长哥伦特手上有很多这种灵晶，你或许可以去找他看看】
+
+              任务奖励
+              高级经验丹*3
+'14':
+  uniqueId: ab9a18a5-306c-4fbc-b38f-d45fbe91504a
+  name: 钱庄老板
+  world: world
+  x: 818
+  y: 4
+  z: -136
+  type: admin
+  object: villager
+  uuid: 38884bf7-ea8a-5cf4-7cbf-31dd65451d0e
+  prof: 0
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_NUGGET
+          amount: 64
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹碎金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6拿着它去钱庄可以换到完整的黄金
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹黄金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6虽说钱财乃身外之物，但是没钱的话，那是万万不行滴
+            - §a拿着它去钱庄可以兑换游戏币
+            enchants:
+              ARROW_DAMAGE: 1
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹黄金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6虽说钱财乃身外之物，但是没钱的话，那是万万不行滴
+            - §a拿着它去钱庄可以兑换游戏币
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_NUGGET
+          amount: 60
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹碎金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6拿着它去钱庄可以换到完整的黄金
+            enchants:
+              ARROW_DAMAGE: 1
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹黄金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6虽说钱财乃身外之物，但是没钱的话，那是万万不行滴
+            - §a拿着它去钱庄可以兑换游戏币
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: STAINED_GLASS
+          damage: 8
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a灰色小晶块
+            lore:
+            - §aBOSS掉落的晶块
+            - §a可以用来锻造级装备
+            - §6用途:锻造装备需要锻造图纸
+            enchants:
+              ARROW_DAMAGE: 1
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §4100段位点兑换券
+            lore:
+            - §6前往钱庄老板处兑换段位灵晶
+            - §6
+            - §6段位灵晶右键使用即可获得100段位值
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §e灵晶
+            lore:
+            - §a可增加100点段位值
+            - §e右键使用
+'15':
+  uniqueId: 4247033e-31f1-4afd-b09d-eaf0d1907efd
+  name: 食物商人
+  world: world
+  x: 826
+  y: 4
+  z: -137
+  type: admin
+  object: villager
+  uuid: 2a7fbb8a-9034-0104-c9ef-025fb1a249d4
+  prof: 2
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_NUGGET
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹碎金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6拿着它去钱庄可以换到完整的黄金
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_NUGGET
+          amount: 30
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹碎金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6拿着它去钱庄可以换到完整的黄金
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          amount: 32
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_NUGGET
+          amount: 58
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹碎金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6拿着它去钱庄可以换到完整的黄金
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          amount: 64
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+'16':
+  uniqueId: 24d523c8-b349-4c3b-9166-be3364d15505
+  name: 军团长哥伦特
+  world: world
+  x: 829
+  y: 4
+  z: -130
+  type: admin
+  object: villager
+  uuid: b7a9ed2e-4bb2-96f9-5e7c-7ecf37cabf9b
+  prof: 0
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            - §a请到物资管理员莎兰前面找到军团长哥伦特
+            - §a开启下一阶段任务
+            title: 第二件粉装
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              军团长哥伦特
+
+              任务描述
+              在上次的冲锋中，我损坏了我的护甲。你能给我找来一件粉色的战甲吗。不然下次战斗我估计要战死的战场上了。
+              救人一命胜造七级浮屠。小伙子，你献爱心的时候到了
+
+                                下一页
+            - |-
+              任务需求
+              粉装-闪耀的阿隆特战甲
+
+              任务奖励
+              段位灵晶*3
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER_CHESTPLATE
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §d闪耀的阿隆戴特战甲
+            lore:
+            - §6品级：§d粉装
+            - §6[基础属性]
+            - §d●防御力:+5%
+            - §6[附加属性]
+            - §d●速度提升:+4%
+            - §d●闪避:+3%
+            - §d●生命回复:+3%
+            - §d●生命:+20
+            - §d●伤害反弹:+3%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §d室外桃源的镇族至宝
+            - §d无意间被狼王偷走，没想到便宜了你
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - §e[§a无§6上§b神§d武§e]
+            - §a无§e等§b级§c限§d制
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【第二件粉装】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【第二件粉装】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §e灵晶
+            lore:
+            - §a可增加100点段位值
+            - §e右键使用
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【第二件粉装】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 烈焰之岛符咒
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              军团长哥伦特
+
+              任务描述
+              很好，你已经足够强大了。
+              谢谢你为我找到了粉色的护甲
+              现在你可以开启你的20级副本之路了。
+              BOSShi掉落粉装，精英会掉落紫装和蓝装，去战斗吧，只有在战斗中，才可以成长，
+                                下一页
+            - |-
+              任务需求
+              烈焰之岛符咒*32
+
+              任务奖励
+              低级经验丹*5
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 烈焰之岛符咒
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              军团长哥伦特
+
+              任务描述
+              很好，你已经足够强大了。
+              谢谢你为我找到了粉色的护甲
+              现在你可以开启你的20级副本之路了。
+              BOSShi掉落粉装，精英会掉落紫装和蓝装，去战斗吧，只有在战斗中，才可以成长，
+                                下一页
+            - |-
+              任务需求
+              烈焰之岛符咒*32
+
+              任务奖励
+              低级经验丹*5
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER
+          amount: 32
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6烈焰之岛符咒
+            lore:
+            - §a烈焰岛怪物掉落的符咒
+            - §a可以用来锻造级装备
+            - §6用途:锻造装备需要锻造图纸
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【烈焰之岛符咒】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【烈焰之岛符咒】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SEEDS
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §0§0§0§0§0§0§0§6§7§l§a低级经验丹
+            lore:
+            - §b§l§o§a§m§7§f§9§0§0§0§0§0§0§0§6§f§6请勿狂吃经验丹，会流失药效     §a消耗品§c§a§f§e§0§0§0§0
+            - §a右键使用
+            - §a使用后消耗掉
+            - §f§a食用后增加50点经验值
+            - §f§4建议2秒钟吃一颗
+            - §f§4你狂吃的话会丹药少了经验没变
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【烈焰之岛符咒】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 20级蓝色武器
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              军团长哥伦特
+
+              任务描述
+              你能走到这一步，证明你一足够的强大，我决定授予你荣耀的称号。
+              那么，就给你一个，勇者战将的称号吧。
+              去给我带来一把20级的蓝色武器，你将会获得无上荣誉。
+
+                                 下一页
+            - |-
+              任务需求
+              20级蓝色武器-天脊乾坤剑
+
+              任务奖励
+              荣耀称号-勇者战将
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 20级蓝色武器
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              军团长哥伦特
+
+              任务描述
+              你能走到这一步，证明你一足够的强大，我决定授予你荣耀的称号。
+              那么，就给你一个，勇者战将的称号吧。
+              去给我带来一把20级的蓝色武器，你将会获得无上荣誉。
+
+                                 下一页
+            - |-
+              任务需求
+              20级蓝色武器-天脊乾坤剑
+
+              任务奖励
+              荣耀称号-勇者战将
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_SWORD
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §9天脊乾坤剑
+            lore:
+            - §6品级：§9蓝装
+            - §6[基础属性]
+            - §a●攻击力：+8-12
+            - §6[附加属性]
+            - §9●暴击几率:+6%
+            - §9●寒冰攻击:+3%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §9传说是由一座大山炼化打造
+            - §9重达千斤，一剑之力开山断海
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 20'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6【20级蓝色武器】完成证明
+            lore:
+            - §4此物品每次完成任务会给2张
+            - §6一张用来换取奖励
+            - §6一张用来领取任务
+            - §a如果两张都换取了奖励
+            - §a那么你的任务就作废了
+            - §9任务作废后可以在点券商城使用5点券购买任务卡
+            - §a请在交易所附近找到受伤的士兵
+            - §a开启下一阶段任务
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 30
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹黄金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6虽说钱财乃身外之物，但是没钱的话，那是万万不行滴
+            - §a拿着它去钱庄可以兑换游戏币
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §e灵晶
+            lore:
+            - §a可增加100点段位值
+            - §e右键使用
+'17':
+  uniqueId: 2469c239-1b4e-4f16-b1be-356402905ff4
+  name: 10级装备分解商
+  world: world
+  x: 805
+  y: 5
+  z: -158
+  type: admin
+  object: villager
+  uuid: b7668523-7b01-4cf7-3602-0b0dd4191cc1
+  prof: 0
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER_HELMET
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §2里昂的战盔
+            lore:
+            - §6品级：§2绿装
+            - §6[基础属性]
+            - §2●防御力:+1%
+            - §6[附加属性]
+            - §2●速度提升:+1%
+            - §2●生命:+5
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §2里昂虽已战死，但其意念生生不息。
+            - §2长久以往，他的意念化为盔甲，继续征战
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 10'
+            - §4[提示]装备遗失概不负责，请妥善保管
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 7
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a无色小晶体
+            lore:
+            - §a怪物掉落的晶体
+            - §a可以用来合成晶块锻造装备
+            - §a集齐64个小晶体可以去找晶块兑换商兑换
+            enchants:
+              ARROW_DAMAGE: 1
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER_CHESTPLATE
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §2里昂的战甲
+            lore:
+            - §6品级：§2绿装
+            - §6[基础属性]
+            - §2●防御力:+1%
+            - §6[附加属性]
+            - §2●速度提升:+1%
+            - §2●生命:+5
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §2里昂虽已战死，但其意念生生不息。
+            - §2长久以往，他的意念化为盔甲，继续征战
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 10'
+            - §4[提示]装备遗失概不负责，请妥善保管
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 7
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a无色小晶体
+            lore:
+            - §a怪物掉落的晶体
+            - §a可以用来合成晶块锻造装备
+            - §a集齐64个小晶体可以去找晶块兑换商兑换
+            enchants:
+              ARROW_DAMAGE: 1
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER_LEGGINGS
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §2里昂的护腿
+            lore:
+            - §6品级：§2绿装
+            - §6[基础属性]
+            - §2●防御力:+1%
+            - §6[附加属性]
+            - §2●速度提升:+1%
+            - §2●生命:+5
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §2里昂虽已战死，但其意念生生不息。
+            - §2长久以往，他的意念化为盔甲，继续征战
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 10'
+            - §4[提示]装备遗失概不负责，请妥善保管
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 7
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a无色小晶体
+            lore:
+            - §a怪物掉落的晶体
+            - §a可以用来合成晶块锻造装备
+            - §a集齐64个小晶体可以去找晶块兑换商兑换
+            enchants:
+              ARROW_DAMAGE: 1
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER_BOOTS
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §2里昂的战靴
+            lore:
+            - §6品级：§2绿装
+            - §6[基础属性]
+            - §2●防御力:+1%
+            - §6[附加属性]
+            - §2●速度提升:+1%
+            - §2●生命:+5
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §2里昂虽已战死，但其意念生生不息。
+            - §2长久以往，他的意念化为盔甲，继续征战
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 10'
+            - §4[提示]装备遗失概不负责，请妥善保管
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 7
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a无色小晶体
+            lore:
+            - §a怪物掉落的晶体
+            - §a可以用来合成晶块锻造装备
+            - §a集齐64个小晶体可以去找晶块兑换商兑换
+            enchants:
+              ARROW_DAMAGE: 1
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER_HELMET
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §9迪瑞拉战盔
+            lore:
+            - §6品级：§9蓝装
+            - §6[基础属性]
+            - §9●防御力:+2%
+            - §6[附加属性]
+            - §9●速度提升:+2%
+            - §9●闪避:+2%
+            - §9●生命:+10
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §9迪瑞拉的护体战甲
+            - §9在10级副本有几率掉落
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 10'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 7
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a无色小晶体
+            lore:
+            - §a怪物掉落的晶体
+            - §a可以用来合成晶块锻造装备
+            - §a集齐64个小晶体可以去找晶块兑换商兑换
+            enchants:
+              ARROW_DAMAGE: 1
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER_CHESTPLATE
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §9迪瑞拉战甲
+            lore:
+            - §6品级：§9蓝装
+            - §6[基础属性]
+            - §9●防御力:+2%
+            - §6[附加属性]
+            - §9●速度提升:+2%
+            - §9●闪避:+2%
+            - §9●生命:+10
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §9迪瑞拉的护体战甲
+            - §9在10级副本有几率掉落
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 10'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 7
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a无色小晶体
+            lore:
+            - §a怪物掉落的晶体
+            - §a可以用来合成晶块锻造装备
+            - §a集齐64个小晶体可以去找晶块兑换商兑换
+            enchants:
+              ARROW_DAMAGE: 1
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER_LEGGINGS
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §9迪瑞拉护腿
+            lore:
+            - §6品级：§9蓝装
+            - §6[基础属性]
+            - §9●防御力:+2%
+            - §6[附加属性]
+            - §9●速度提升:+2%
+            - §9●闪避:+2%
+            - §9●生命:+10
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §9迪瑞拉的护体战甲
+            - §9在10级副本有几率掉落
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 10'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 7
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a无色小晶体
+            lore:
+            - §a怪物掉落的晶体
+            - §a可以用来合成晶块锻造装备
+            - §a集齐64个小晶体可以去找晶块兑换商兑换
+            enchants:
+              ARROW_DAMAGE: 1
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER_BOOTS
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §9迪瑞拉战靴
+            lore:
+            - §6品级：§9蓝装
+            - §6[基础属性]
+            - §9●防御力:+2%
+            - §6[附加属性]
+            - §9●速度提升:+2%
+            - §9●闪避:+2%
+            - §9●生命:+10
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §9迪瑞拉的护体战甲
+            - §9在10级副本有几率掉落
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 10'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 7
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a无色小晶体
+            lore:
+            - §a怪物掉落的晶体
+            - §a可以用来合成晶块锻造装备
+            - §a集齐64个小晶体可以去找晶块兑换商兑换
+            enchants:
+              ARROW_DAMAGE: 1
+'18':
+  uniqueId: b80044cc-a738-4d58-951e-5b39e8ff23bc
+  name: 20级装备分解商
+  world: world
+  x: 808
+  y: 5
+  z: -158
+  type: admin
+  object: villager
+  uuid: 0dac1716-6707-fad6-40a7-1fcc9bd78c13
+  prof: 0
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_HELMET
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §2修罗吞灵盔
+            lore:
+            - §6品级：§2绿装
+            - §6[基础属性]
+            - §e●防御力:+2%
+            - §6[附加属性]
+            - §6●速度提升:+1%
+            - §6●生命:+6
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §2身经百战的战甲
+            - §2浴血已为修罗之身
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 20'
+            - §4[提示]装备遗失概不负责，请妥善保管
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 8
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a灰色小晶体
+            lore:
+            - §a怪物掉落的晶体
+            - §a可以用来合成晶块锻造装备
+            - §a集齐64个小晶体可以去找晶块兑换商兑换
+            enchants:
+              ARROW_DAMAGE: 1
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_HELMET
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §9被遗忘战盔
+            lore:
+            - §6品级：§9蓝装
+            - §6[基础属性]
+            - §9●防御力:+3%
+            - §6[附加属性]
+            - §9●速度提升:+2%
+            - §9●闪避:+2%
+            - §9●生命:+12
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §9被遗忘在修罗界战甲
+            - §9传说拥有强大的血煞之力
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 20'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 8
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a灰色小晶体
+            lore:
+            - §a怪物掉落的晶体
+            - §a可以用来合成晶块锻造装备
+            - §a集齐64个小晶体可以去找晶块兑换商兑换
+            enchants:
+              ARROW_DAMAGE: 1
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_CHESTPLATE
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §9被遗忘战甲
+            lore:
+            - §6品级：§9蓝装
+            - §6[基础属性]
+            - §9●防御力:+3%
+            - §6[附加属性]
+            - §9●速度提升:+2%
+            - §9●闪避:+2%
+            - §9●生命:+12
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §9被遗忘在修罗界战甲
+            - §9传说拥有强大的血煞之力
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 20'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 8
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a灰色小晶体
+            lore:
+            - §a怪物掉落的晶体
+            - §a可以用来合成晶块锻造装备
+            - §a集齐64个小晶体可以去找晶块兑换商兑换
+            enchants:
+              ARROW_DAMAGE: 1
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_LEGGINGS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §9被遗忘护腿
+            lore:
+            - §6品级：§9蓝装
+            - §6[基础属性]
+            - §9●防御力:+3%
+            - §6[附加属性]
+            - §9●速度提升:+2%
+            - §9●闪避:+2%
+            - §9●生命:+12
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §9被遗忘在修罗界战甲
+            - §9传说拥有强大的血煞之力
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 20'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 8
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a灰色小晶体
+            lore:
+            - §a怪物掉落的晶体
+            - §a可以用来合成晶块锻造装备
+            - §a集齐64个小晶体可以去找晶块兑换商兑换
+            enchants:
+              ARROW_DAMAGE: 1
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_BOOTS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §9被遗忘战靴
+            lore:
+            - §6品级：§9蓝装
+            - §6[基础属性]
+            - §9●防御力:+3%
+            - §6[附加属性]
+            - §9●速度提升:+2%
+            - §9●闪避:+2%
+            - §9●生命:+12
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §9被遗忘在修罗界战甲
+            - §9传说拥有强大的血煞之力
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 20'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 8
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a灰色小晶体
+            lore:
+            - §a怪物掉落的晶体
+            - §a可以用来合成晶块锻造装备
+            - §a集齐64个小晶体可以去找晶块兑换商兑换
+            enchants:
+              ARROW_DAMAGE: 1
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_LEGGINGS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §2修罗吞灵裤
+            lore:
+            - §6品级：§2绿装
+            - §6[基础属性]
+            - §e●防御力:+2%
+            - §6[附加属性]
+            - §6●速度提升:+1%
+            - §6●生命:+6
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §2身经百战的战甲
+            - §2浴血已为修罗之身
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 20'
+            - §4[提示]装备遗失概不负责，请妥善保管
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 8
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a灰色小晶体
+            lore:
+            - §a怪物掉落的晶体
+            - §a可以用来合成晶块锻造装备
+            - §a集齐64个小晶体可以去找晶块兑换商兑换
+            enchants:
+              ARROW_DAMAGE: 1
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_BOOTS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §2修罗吞灵靴
+            lore:
+            - §6品级：§2绿装
+            - §6[基础属性]
+            - §e●防御力:+2%
+            - §6[附加属性]
+            - §6●速度提升:+1%
+            - §6●生命:+6
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §2身经百战的战甲
+            - §2浴血已为修罗之身
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 20'
+            - §4[提示]装备遗失概不负责，请妥善保管
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 8
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a灰色小晶体
+            lore:
+            - §a怪物掉落的晶体
+            - §a可以用来合成晶块锻造装备
+            - §a集齐64个小晶体可以去找晶块兑换商兑换
+            enchants:
+              ARROW_DAMAGE: 1
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_CHESTPLATE
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §2修罗吞灵甲
+            lore:
+            - §6品级：§2绿装
+            - §6[基础属性]
+            - §e●防御力:+2%
+            - §6[附加属性]
+            - §6●速度提升:+1%
+            - §6●生命:+6
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §2身经百战的战甲
+            - §2浴血已为修罗之身
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 20'
+            - §4[提示]装备遗失概不负责，请妥善保管
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 8
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a灰色小晶体
+            lore:
+            - §a怪物掉落的晶体
+            - §a可以用来合成晶块锻造装备
+            - §a集齐64个小晶体可以去找晶块兑换商兑换
+            enchants:
+              ARROW_DAMAGE: 1
+'19':
+  uniqueId: ce5b00af-af3c-42ed-9be0-c7f1e26b1d9f
+  name: 10级紫装回收商人
+  world: world
+  x: 802
+  y: 5
+  z: -158
+  type: admin
+  object: villager
+  uuid: 7fd8a1e4-da4e-b34d-ca98-f4d7c07ff6d2
+  prof: 0
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WOOD_SWORD
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §5奥斯卡战剑
+            lore:
+            - §6品级：§5紫装
+            - §6[基础属性]
+            - §5●攻击力：+8-13
+            - §6[附加属性]
+            - §5●暴击几率:+9%
+            - §5●寒冰攻击:+6%
+            - §5●烈焰攻击:+3%
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §5侍卫长奥斯卡的佩剑
+            - §5一直不见踪迹，原来遗失在了世外桃源
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 10'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 7
+          amount: 10
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a无色小晶体
+            lore:
+            - §a怪物掉落的晶体
+            - §a可以用来合成晶块锻造装备
+            - §a集齐64个小晶体可以去找晶块兑换商兑换
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_NUGGET
+          amount: 5
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹碎金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6拿着它去钱庄可以换到完整的黄金
+            enchants:
+              ARROW_DAMAGE: 1
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER_HELMET
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §5奥斯卡战盔
+            lore:
+            - §6品级：§5紫装
+            - §6[基础属性]
+            - §5●防御力:+3%
+            - §6[附加属性]
+            - §5●速度提升:+3%
+            - §5●闪避:+3%
+            - §5●生命回复:+2%
+            - §5●生命:+15
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §5侍卫长奥斯卡的护甲
+            - §5一直不见踪迹，原来遗失在了室外桃源
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 10'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 7
+          amount: 5
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a无色小晶体
+            lore:
+            - §a怪物掉落的晶体
+            - §a可以用来合成晶块锻造装备
+            - §a集齐64个小晶体可以去找晶块兑换商兑换
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_NUGGET
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹碎金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6拿着它去钱庄可以换到完整的黄金
+            enchants:
+              ARROW_DAMAGE: 1
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER_CHESTPLATE
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §5奥斯卡战甲
+            lore:
+            - §6品级：§5紫装
+            - §6[基础属性]
+            - §5●防御力:+3%
+            - §6[附加属性]
+            - §5●速度提升:+3%
+            - §5●闪避:+3%
+            - §5●生命回复:+2%
+            - §5●生命:+15
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §5侍卫长奥斯卡的护甲
+            - §5一直不见踪迹，原来遗失在了室外桃源
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 10'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 7
+          amount: 5
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a无色小晶体
+            lore:
+            - §a怪物掉落的晶体
+            - §a可以用来合成晶块锻造装备
+            - §a集齐64个小晶体可以去找晶块兑换商兑换
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_NUGGET
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹碎金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6拿着它去钱庄可以换到完整的黄金
+            enchants:
+              ARROW_DAMAGE: 1
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER_LEGGINGS
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §5奥斯卡护腿
+            lore:
+            - §6品级：§5紫装
+            - §6[基础属性]
+            - §5●防御力:+3%
+            - §6[附加属性]
+            - §5●速度提升:+3%
+            - §5●闪避:+3%
+            - §5●生命回复:+2%
+            - §5●生命:+15
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §5侍卫长奥斯卡的护甲
+            - §5一直不见踪迹，原来遗失在了室外桃源
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 10'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 7
+          amount: 5
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a无色小晶体
+            lore:
+            - §a怪物掉落的晶体
+            - §a可以用来合成晶块锻造装备
+            - §a集齐64个小晶体可以去找晶块兑换商兑换
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_NUGGET
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹碎金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6拿着它去钱庄可以换到完整的黄金
+            enchants:
+              ARROW_DAMAGE: 1
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEATHER_BOOTS
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §5奥斯卡战靴
+            lore:
+            - §6品级：§5紫装
+            - §6[基础属性]
+            - §5●防御力:+3%
+            - §6[附加属性]
+            - §5●速度提升:+3%
+            - §5●闪避:+3%
+            - §5●生命回复:+2%
+            - §5●生命:+15
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §5侍卫长奥斯卡的护甲
+            - §5一直不见踪迹，原来遗失在了室外桃源
+            - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+            - §6[女神眷顾]
+            - '§a§e§f§a耐久: 无限'
+            - ''
+            - '§3等级: 10'
+            - §4[提示]装备遗失概不负责，请妥善保管
+            enchants:
+              ARROW_INFINITE: 1
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 7
+          amount: 5
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a无色小晶体
+            lore:
+            - §a怪物掉落的晶体
+            - §a可以用来合成晶块锻造装备
+            - §a集齐64个小晶体可以去找晶块兑换商兑换
+            enchants:
+              ARROW_DAMAGE: 1
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_NUGGET
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹碎金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6拿着它去钱庄可以换到完整的黄金
+            enchants:
+              ARROW_DAMAGE: 1
+'20':
+  uniqueId: 50c869ad-2a6f-46e2-b1e5-9eceb24be168
+  name: 猎人卡坤
+  world: world
+  x: 931
+  y: 5
+  z: 863
+  type: admin
+  object: villager
+  uuid: 1852d5bb-9e37-71d7-4469-c285b890e87f
+  prof: 0
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 寻找猎人
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点：
+              城门守备队长格拉
+
+              任务对话
+              你就是城主介绍来的那个小子吧，
+              看在你跟城主熟的份上，我就告诉你一个小秘密。
+              我们的城镇有一位猎人，他经常会挖掘到一些宝藏。
+              你去30级副本找他，他会告诉你宝藏在哪里。
+            - |+
+              任务需求
+              去30级副本找到猎人
+
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 找药品商人买到烈酒
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              猎人卡坤
+
+              任务介绍
+              一定是城里那个守备队长叫你来的吧，
+              我这里是有一些宝藏的秘密，但是我不会平白无故的告诉你，你去城里药品商人那里给我买点烈酒过来，我就告诉你宝藏箱在哪里。
+
+                                  下一页
+            - |+
+              任务需求
+              烈酒
+
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 找药品商人买到烈酒
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              猎人卡坤
+
+              任务介绍
+              一定是城里那个守备队长叫你来的吧，
+              我这里是有一些宝藏的秘密，但是我不会平白无故的告诉你，你去城里药品商人那里给我买点烈酒过来，我就告诉你宝藏箱在哪里。
+
+                                  下一页
+            - |+
+              任务需求
+              烈酒
+
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+          damage: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a烈酒
+            lore:
+            - §a猎人任务物品
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - §6右键点击-查看任务详
+            - §4请勿遗失，遗失后主线将会中断
+            title: 找人掘墓人
+            author: Max_Joine
+            pages:
+            - |-
+              任务起点
+              猎人
+
+              任务介绍
+              请往副本深处走。在最里面找到掘墓人，他会告诉你宝藏的线索。
+
+              任务需求
+              找到掘墓人
+'21':
+  uniqueId: aa3c8858-8c6b-49cc-9f0f-db25cb55040f
+  name: 掘墓人
+  world: world
+  x: 983
+  y: 5
+  z: 832
+  type: admin
+  object: villager
+  uuid: 77934731-4690-9c60-f247-3539aeb57702
+  prof: 0
+  recipes: {}

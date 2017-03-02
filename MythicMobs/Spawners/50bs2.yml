@@ -1,0 +1,21 @@
+50bs2:
+  MobName: 50bs
+  World: world
+  X: 2453
+  Y: 121
+  Z: 828
+  Radius: 0
+  UseTimer: true
+  MaxMobs: 1
+  MobLevel: 1
+  MobsPerSpawn: 1
+  Cooldown: 600
+  CooldownTimer: 0
+  Warmup: 4
+  WarmupTimer: 0
+  LeashRange: 1000
+  HealOnLeash: false
+  ShowFlames: false
+  Conditions: []
+  AssociatedMobs:
+  - 3b006ddb-e42b-7383-3488-f8aec91c2fa5

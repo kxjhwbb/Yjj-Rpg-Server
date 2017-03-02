@@ -1,0 +1,21 @@
+10jingying1:
+  MobName: langwei
+  World: world
+  X: 969
+  Y: 46
+  Z: -1090
+  Radius: 0
+  UseTimer: true
+  MaxMobs: 1
+  MobLevel: 1
+  MobsPerSpawn: 1
+  Cooldown: 30
+  CooldownTimer: 0
+  Warmup: 4
+  WarmupTimer: 0
+  LeashRange: 32
+  HealOnLeash: false
+  ShowFlames: false
+  Conditions: []
+  AssociatedMobs:
+  - cb5e668b-5887-9a9a-34d8-f641f309614c

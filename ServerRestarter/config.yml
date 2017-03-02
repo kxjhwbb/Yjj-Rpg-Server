@@ -1,0 +1,43 @@
+# Time before restarting the server.
+# Format is 0d0h0m0s0ms.
+restart_time: 7h1m
+kick_message: MC物语提醒您！服务器每天重启3次！30秒内自动开启！为了流畅度哟！!
+state_file: auto_restart
+create_state_file: 'true'
+actions:
+  message_5m: message:5m:&a服务器将在5分钟后重新启动...
+  scoreboard_5m_title: scoreboard:5m1ms:settitle:重启倒计时
+  scoreboard_5m_format: 'scoreboard:5m1ms:setformat:m:&a剩余时间(分):'
+  scoreboard_5m_enable: scoreboard:5m:enable
+  sound_5m: sound:5m:NOTE_PIANO:1.0:3.0
+  message_2m: message:2m:&a服务器将在2分钟后重新启动...
+  message_1m: message:1m:&a服务器将在1分钟后重新启动...
+  sound_1m: sound:1m:NOTE_PIANO:1.0:2.0
+  sound2_1m: sound:1m:NOTE_BASS_GUITAR:1.0:2.0
+  scoreboard_1m_format: 'scoreboard:1m:setformat:s:&e剩余时间(秒):'
+  message_30s: message:30s:&a服务器将在30秒后重新启动...
+  sound_30s: sound:30s:NOTE_PIANO:1.0:1.0
+  scoreboard_30s_format: 'scoreboard:30s:setformat:s:&6剩余时间(秒):'
+  message_15s: message:15s:&a服务器将在15秒后重新启动...
+  sound_15s: sound:15s:NOTE_PIANO:1.0:1.0
+  scoreboard_15s_format: 'scoreboard:15s:setformat:s:&c剩余时间(秒):'
+  message_10s: message:10s:&a服务器将在10秒后重新启动...
+  sound_10s: sound:10s:NOTE_PIANO:1.0:1.0
+  message_5s: message:5s:&a服务器将在5秒后重新启动...
+  scoreboard_5s_format: 'scoreboard:5s:setformat:s:&4剩余时间(秒):'
+  sound_5s: sound:5s:NOTE_PIANO:1.0:1.0
+  sound_5s300ms: sound:5s300ms:NOTE_PIANO:1.0:1.0
+  message_4s: message:4s:&a服务器将在4秒后重新启动....
+  sound_4s: sound:4s:NOTE_PIANO:1.0:1.0
+  sound_4s300ms: sound:4s300ms:NOTE_PIANO:1.0:1.0
+  message_3s: message:3s:&a服务器将在3秒后重新启动...
+  sound_3s: sound:3s:NOTE_PIANO:1.0:1.0
+  sound_3s300ms: sound:3s300ms:NOTE_PIANO:1.0:1.0
+  message_2s: message:2s:&a服务器将在2秒后重新启动...
+  sound_2s: sound:2s:NOTE_PIANO:1.0:1.0
+  sound_2s300ms: sound:2s300ms:NOTE_PIANO:1.0:1.0
+  message_1s: message:1s:&a请大家喝杯茶，解解渴，服务器30秒后开启。
+  sound_1s: sound:1s:NOTE_PIANO:1.0:1.0
+  sound_1s300ms: sound:1s300ms:NOTE_PIANO:1.0:1.0
+  sound_1s600ms: sound:1s600ms:NOTE_PIANO:1.0:1.0
+

@@ -1,0 +1,21 @@
+40jy:
+  MobName: 40jy
+  World: world
+  X: 2611
+  Y: 101
+  Z: 893
+  Radius: 0
+  UseTimer: true
+  MaxMobs: 1
+  MobLevel: 1
+  MobsPerSpawn: 1
+  Cooldown: 300
+  CooldownTimer: 0
+  Warmup: 4
+  WarmupTimer: 0
+  LeashRange: 1000
+  HealOnLeash: false
+  ShowFlames: false
+  Conditions: []
+  AssociatedMobs:
+  - b65e9c64-36d5-c1bd-ea3d-846d8ad5e95b

@@ -1,0 +1,26 @@
+Item:
+  ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND_AXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §4赤光天机剑-远古武器
+    lore:
+    - §6品级：§4远古武器
+    - §6[基础属性]
+    - §4●攻击力：+39-40
+    - §6[附加属性]
+    - §4●嗜血:+11%
+    - §4●暴击几率:+13%
+    - §4●寒冰攻击:+11%
+    - §4●烈焰攻击:+11%
+    - §4●剧毒攻击:+11%
+    - §4●致盲攻击:+11%
+    - §4●凋零攻击:+10%
+    - §6[女神眷顾]
+    - '§a§e§f§a耐久: 无限'
+    - §e[§4远古赐福]
+    - §a无§e等§b级§c限§d制
+    - §4[提示]装备遗失概不负责，请妥善保管
+    enchants:
+      ARROW_INFINITE: 1

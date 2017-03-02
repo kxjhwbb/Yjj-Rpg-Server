@@ -1,0 +1,21 @@
+50jy4:
+  MobName: 50jy
+  World: world
+  X: 2451
+  Y: 112
+  Z: 804
+  Radius: 0
+  UseTimer: true
+  MaxMobs: 1
+  MobLevel: 1
+  MobsPerSpawn: 1
+  Cooldown: 60
+  CooldownTimer: 0
+  Warmup: 4
+  WarmupTimer: 0
+  LeashRange: 1000
+  HealOnLeash: false
+  ShowFlames: false
+  Conditions: []
+  AssociatedMobs:
+  - fab539fc-0f00-e734-6c61-e9ef746f0ce3

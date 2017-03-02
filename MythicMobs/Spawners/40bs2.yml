@@ -1,0 +1,21 @@
+40bs2:
+  MobName: 40bs
+  World: world
+  X: 2514
+  Y: 103
+  Z: 877
+  Radius: 0
+  UseTimer: true
+  MaxMobs: 1
+  MobLevel: 1
+  MobsPerSpawn: 1
+  Cooldown: 600
+  CooldownTimer: 0
+  Warmup: 4
+  WarmupTimer: 0
+  LeashRange: 1000
+  HealOnLeash: false
+  ShowFlames: false
+  Conditions: []
+  AssociatedMobs:
+  - dbba6ff3-4513-c9e4-68df-3857dd7f335d

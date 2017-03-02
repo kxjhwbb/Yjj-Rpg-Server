@@ -1,0 +1,21 @@
+'207':
+  MobName: lieyankulou
+  World: world
+  X: 1182
+  Y: 8
+  Z: -714
+  Radius: 0
+  UseTimer: true
+  MaxMobs: 1
+  MobLevel: 1
+  MobsPerSpawn: 1
+  Cooldown: 0
+  CooldownTimer: 0
+  Warmup: 4
+  WarmupTimer: 0
+  LeashRange: 32
+  HealOnLeash: false
+  ShowFlames: false
+  Conditions: []
+  AssociatedMobs:
+  - 92dbf8ee-d401-602f-b0dd-42a919514785

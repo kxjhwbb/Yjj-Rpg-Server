@@ -1,0 +1,93 @@
+yezhu:
+  Type: pig
+  Display: '&a野猪&9[LV.10]'
+  Health: 60
+  Damage: 1
+  Skills: 
+  Drops: 
+  - cqsj 1 0.3
+  - wsxjt 1 0.5
+  - yldpm 1 0.5
+  - djrhj 1 0.3
+  - xynsdzf 1 0.05
+  - 10jlw 1 0.1
+  - 10jlt 1 0.1
+  - 10jly 1 0.1
+  - 10jlk 1 0.1
+  - 10jlx 1 0.1
+  - 10lw 1 0.2
+  - 10lt 1 0.01
+  - 10ly 1 0.1
+  - 10lk 1 0.01
+  - 10lx 1 0.01
+  Equipment: 
+  Options: 
+    PreventLeashing: true 
+    PreventOtherDrops: true 
+    AlwaysShowName: true 
+    MaxCombatDistance: 25 
+
+langwei:
+  Type: wolf
+  Display: '&4狼卫&6[精英]&9[LV.10]'
+  Health: 300
+  Damage: 2
+  Skills: 
+  Drops: 
+  - cqsj 1-5 1
+  - xynsdzf 1 0.1
+  - 10jzt 1 0.1
+  - 10jzy 1 0.1
+  - 10jzk 1 0.1
+  - 10jzx 1 0.1
+  - 10jzw 1 0.1
+  - 10zw 1 0.01
+  - 10zt 1 0.01
+  - 10zy 1 0.01
+  - 10zk 1 0.01
+  - 10zx 1 0.01
+  - 10lw 1 0.5
+  - 10lt 1 0.1
+  - 10ly 1 0.3
+  - 10lk 1 0.1
+  - 10lx 1 0.1
+  - exp 1
+  Equipment: 
+  Options: 
+    PreventLeashing: true 
+    PreventOtherDrops: true 
+    AlwaysShowName: true 
+    MaxCombatDistance: 25 
+
+langwang:
+  Type: wolf
+  Display: '&4狼王&6[BOSS]&9[LV.10]'
+  Health: 600
+  Damage: 2
+  Skills: 
+  Drops: 
+  - cqsj 5-10 1
+  - cqhj 1 0.2
+  - xynsdzf 1 0.1
+  - 10jzt 1 0.2
+  - 10jzy 1 0.2
+  - 10jzk 1 0.2
+  - 10jzx 1 0.2
+  - 10jzw 1 0.2
+  - 10zw 1 0.1
+  - 10zt 1 0.1
+  - 10zy 1 0.1
+  - 10zk 1 0.1
+  - 10fw 1 0.05
+  - 10ft 1 0.05
+  - 10fy 1 0.05
+  - 10fk 1 0.05
+  - 10fx 1 0.05
+  - exp 2
+  Equipment: 
+  Options: 
+    PreventLeashing: true 
+    PreventOtherDrops: true 
+    AlwaysShowName: true 
+    MaxCombatDistance: 25 	
+

@@ -1,0 +1,19 @@
+## ColorMOTD v1.5.3 Config
+# http://www.mcbbs.net/thread-448326-1-1.html
+Motd:
+- |2-
+                &f&l&m---&8&l&m[- &6&lMC &e&l◆ &a&l物语群组服 &8&l&m-]&f&l&m---&0
+               &e&l* &d&l  1.7.2 &e&l*  &e&l* &c&l新学期新相貌 &e&l*
+OnlineMsg: '&6在线人数 &3%ONLINE%&7/&3%MAXPLAYER%'
+Players:
+- '&3QQ群：422129912'
+- '&5还看什么看啊！'
+- '&2赶紧双击进服！'
+ServiceModeMOTD: '&c服务器维护中,请等待维护完成...'
+ServiceModeKickCause: '&c服务器维护中,请等待维护完成再进入服务器!'
+useBungeeCord: false
+redisBungee: false
+AttributionServer: taobao
+TPSFormat: '0.0'
+showDelay: false
+UpdateChecker: true

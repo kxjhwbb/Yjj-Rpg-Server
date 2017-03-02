@@ -1,0 +1,22 @@
+'101':
+  MobName: yezhu
+  World: world
+  X: 963
+  Y: 39
+  Z: -1028
+  Radius: 0
+  UseTimer: true
+  MaxMobs: 2
+  MobLevel: 1
+  MobsPerSpawn: 2
+  Cooldown: 3
+  CooldownTimer: 0
+  Warmup: 4
+  WarmupTimer: 0
+  LeashRange: 32
+  HealOnLeash: false
+  ShowFlames: false
+  Conditions: []
+  AssociatedMobs:
+  - a1d7e0c6-1130-d636-93ee-e0a61e1629a9
+  - ad2c32bb-740e-b216-d1b7-94359c2bf563

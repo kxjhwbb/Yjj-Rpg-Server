@@ -1,0 +1,32 @@
+#杀敌-默认
+KillMessage.Default: &a你杀死了%s,获得了%s点境界,他失去了%s点修为
+#杀敌-对方没声望
+KillMessage.NoFame.1: &a你杀死了%s,但他的境界点已经为0,你没有获得境界,他失去了%s点修为
+#杀敌-对方声望不足
+KillMessage.NoFame.2: &a你杀死了%s,但他的境界点不足够你这次的境界获取额,你仅获得了%s声望,他失去了%s点修为
+#连杀-默认
+MoreKillMessage.Default: &a你在10秒内连续杀敌%s个人,%s死于你的魔掌之下,你获得了%s点境界,他失去了%s点修为
+#连杀-对方没声望
+MoreKillMessage.NoFame.1: &a你在10秒内连续杀敌%s个人,%s死于你的魔掌之下,你并没有获得境界,他失去了%s点修为
+#连杀-默认
+MoreKillMessage.NoFame.2: &a你在10秒内连续杀敌%s个人,%s死于你的魔掌之下,你只获得了%s点境界,他失去了%s点修为
+#死亡-默认
+DeathMessage.Default: &a你被%s杀死,失去了%s点境界和%s点修为
+#死亡-没声望
+DeathMessage.NoFame.1: &a你被%s杀死,你没有境界了,仅失去%s点修为
+#死亡-声望不足
+DeathMessage.NoFame.2: &a你被%s杀死,本次扣除境界大于你的境界点,你失去了%s点境界和失去%s点修为
+#被连杀死亡-默认
+MoreDeathMessage.Default: &a你死于%s第%s连杀之下,失去了%s点境界和%s点修为
+#被连杀死亡-没声望
+MoreDeathMessage.NoFame.1: &a你死于%s第%s连杀之下,你没有境界了,仅失去%s点修为
+#被连杀死亡-声望不足
+MoreDeathMessage.NoFame.2: &a你死于%s第%s连杀之下,本次扣除境界大于你的境界点,你失去了%s点境界和失去%s点修为
+#连续杀敌公告信息
+#有2个%s,第一个为杀敌玩家名
+#第二个为死亡玩家名
+#格式为MoreKill.连杀数值
+#无直接删除即可
+MoreKill.2: &a%s杀死了%s完成了一次双杀!
+#使用声望果信息
+FameItemUse: &a你使用了灵晶,增加了100点段位值

@@ -1,0 +1,351 @@
+location:
+  ==: com.mtihc.minecraft.treasurechest.v8.core.TreasureChest
+  container:
+    ==: com.mtihc.minecraft.treasurechest.v8.core.BlockInventory
+    world: world
+    coords:
+      ==: Vector
+      x: 719.0
+      y: 5.0
+      z: -173.0
+    type: CHEST
+    size: 27
+    contents:
+      item0:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item1:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item2:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item3:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item4:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item5:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item6:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item7:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item8:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item9:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item10:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item11:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item12:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item13:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_NUGGET
+          amount: 8
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §a苍穹碎金
+            lore:
+            - §a苍穹大陆通用货币
+            - §a这个大陆人人都爱黄金
+            - §6拿着它去钱庄可以换到完整的黄金
+            enchants:
+              ARROW_DAMAGE: 1
+      item14:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item15:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item16:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item17:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item18:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item19:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item20:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item21:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item22:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item23:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item24:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item25:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+      item26:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §6美味的牛排
+            lore:
+            - §6伙计们，什么叫生活？
+            - §6大口喝酒，大口吃肉，这他妈就是生活
+  messages:
+    UNLIMITED: Take as much as you want!
+    FOUND: You have found treasure!
+    FOUND_ALREADY: You have already looted this treasure...
+  ranks: []
+  unlimited: false
+  random: 0
+  forget-time: 64800000
+  ignore-protection: false
+  rewards: {}

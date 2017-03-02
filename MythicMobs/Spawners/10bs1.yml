@@ -1,0 +1,21 @@
+10bs1:
+  MobName: langwang
+  World: world
+  X: 964
+  Y: 53
+  Z: -1134
+  Radius: 0
+  UseTimer: true
+  MaxMobs: 1
+  MobLevel: 1
+  MobsPerSpawn: 1
+  Cooldown: 60
+  CooldownTimer: 0
+  Warmup: 4
+  WarmupTimer: 0
+  LeashRange: 32
+  HealOnLeash: false
+  ShowFlames: false
+  Conditions: []
+  AssociatedMobs:
+  - 5c8660c5-850e-86e4-1e94-6aba7e4b078d

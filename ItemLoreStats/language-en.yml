@@ -1,0 +1,107 @@
+FileVersion: 582
+ErrorMessages:
+  PermissionDeniedError: '&c你没有权利使用该命令.'
+  IngameOnlyError: 你只能在游戏内使用此命令!
+  DoesntExistError: '&4{value1} &c不存在!'
+  PlayerNotOnlineError: '&4{value1} &c不在线!'
+  NotEnoughSpaceError: '&4{value1} &c的背包空间不多.'
+  IncludeItemNameError: '&c你必须为你的物品取一个名字!. 例子:/ils name &4上帝之手'
+  EnterPlayerNameError: '&c请输入一个玩家的名字!'
+  ItemAlreadyExistsError: '&c该物品名已存在. 请更换一个名称作为物品的名字.'
+  NullItemInHandError: '&c你必须拿着一个物品才能使用这个命令.'
+  NoLoreError: '&c该物品不包含任何介绍.'
+  EnterTypeError: '&c请给这个输入一个使用类型(判断效果如何生效) &4Armour&c, &4Hand &c或 &4All.'
+  ShiftClickDisabled: '&cShift-clicking armour 功能已关闭.'
+  InventoryFull: '&4你的背包已满.'
+  AddedToConfig: '&2{value1} &a已经被添加到配置中过了.'
+CustomItemMessages:
+  HoldCustomItem: '&c请将你想要添加进配置的物品拿在手中.'
+  CustomEquipmentType: '&c你需要设置这个物品的装备类型. 类型为 &4tool &c或者 &4armour&c.'
+  CustomItemType: '&c你需要设置这个物品的类型. 例如 &4Diamond Sword &c或者 &4Gold Chestplate&c.'
+  CustomArmourType: '&c你需要设置这个装备的类型; 类型为 &4helmet(头盔)&c, &4chest(胸甲)&c, &4legs(护腿)&c, &4boots(鞋子)&c.'
+ClassRequirementMessages:
+  NotRequiredClass: '&c你当前的职业无法穿戴这个装备.'
+  NotRequiredClassForItemInHand: '&c你当前的职业无法使用这个物品/武器.'
+  InventoryFullOnPickup: '&4你的背包没有空位或这个武器/物品不属于你的职业.'
+LevelRequirementMessages:
+  LevelTooLow: '&c你当前的等级不满足装备穿戴需求.'
+  LevelTooLowForItemInHand: '&c你当前的等级不满足武器使用需求.'
+  InventoryFullOnPickup: '&4你的背包没有空位或你未达到使用等级.'
+SoulboundMessages:
+  BoundToSomeoneElse: '&c这个装备已经绑定到别的玩家，你无法使用.'
+  BoundToSomeoneElseForItemInHand: '&c这个物品/武器已经绑定到别的玩家，你无法使用.'
+  InventoryFullOnPickup: '&4你的背包没有空位或该物品已绑定到别的玩家.'
+DamageMessages:
+  DamageDone: '      &d你对&r{defender}&d照成了&6{value2}&d点伤害.'
+  DamageDoneWithoutVowel: '      &d你对&r{defender}&d照成了&6{value2}&d点伤害.'
+  DamageDoneWithVowel: '      &d你对&r{defender}&d照成了&6{value2}&d点伤害.'
+  DamageTaken: '      &r{attacker}&d对你照成了&6{value2}&d点伤害.'
+  CriticalStrikeSuccess: '&a致命一击!'
+  EnemyCriticalStrikeSuccess: '&4{attacker}&c对你照成了致命一击!'
+  DodgeSuccess: '&a闪避!'
+  EnemyDodgeSuccess: '&4{defender}&c闪避了你的攻击!'
+  BlockSuccess: '&a格挡!'
+  EnemyBlockSuccess: '&4{defender}&c将你的攻击格挡了下了!'
+  LifeStealSuccess: '&a你吸取了&2{defender}&2{value1}&a点生命值!'
+  EnemyLifeStealSuccess: '&4{attacker}&c吸取了&4{value1}&c点你的生命值!'
+  ReflectSuccess: '&a反弹!'
+  EnemyReflectSuccess: '&4{defender}&c将你的攻击挡下并反弹给了你!'
+  FireSuccess: '&2{defender}&a被你点燃!'
+  EnemyFireSuccess: '&4{attacker}&c将你点燃!'
+  IceSuccess: '&2{defender}&a被你减速!'
+  EnemyIceSuccess: '&4{attacker}&c将你减速!'
+  PoisonSuccess: '&2{defender}&a已中毒!'
+  EnemyPoisonSuccess: '&4{attacker}&c将你陷入中毒状态!'
+  WitherSuccess: '&2{defender}&a已中凋零效果!'
+  EnemyWitherSuccess: '&4{attacker}&c对你释放了凋零效果!'
+  HarmSuccess: '&2{defender}&a受到了高额伤害!'
+  EnemyHarmSuccess: '&4{attacker}&c对你打出了高额伤害!'
+  BlindSuccess: '&2{defender}&a被你致盲!'
+  EnemyBlindSuccess: '&4{attacker}&c将你致盲!'
+SpellMessages:
+  CastSpell:
+    ItemInHand: '&e右键释放魔法'
+    CooldownRemaining: '&6{value1} &d秒后才能再次使用.'
+    Heal: '&2{attacker}&a治疗了你, 你恢复了&2{value1}&a点生命值.'
+RepairMessages:
+  RepairSuccessfulMaterial: '&a你成功修复了&2{value1}&c.'
+  RepairSuccessfulCurrency: '&a你成功修复了&2{value1} &a共花费&2{value2}枚硬币&a.'
+  DoesntNeedRepair: '&4{value1} &c不需要修理.'
+  NotEnoughMoney: '&c你需要&4{value2}枚硬币 &c才能修复&4{value1}&c.'
+  NotEnoughLeather: '&c没有足够的皮革来修复&4{value1}&c.'
+  NotEnoughWood: '&c没有足够的木板来修复&4{value1}&c.'
+  NotEnoughCobblestone: '&c没有足够的圆石来修复&4{value1}&c.'
+  NotEnoughIron: '&c没有足够的铁锭来修复&4{value1}&c.'
+  NotEnoughGold: '&c没有足够的金锭来修复&4{value1}&c.'
+  NotEnoughDiamond: '&c没有足够的钻石来修复&4{value1}&c.'
+  NotEnoughSticks: '&c没有足够的木棒来修复&4{value1}&c.'
+  NotEnoughFlint: '&c没有足够的火焰来修复&4{value1}&c.'
+  NotEnoughString: '&c没有足够的线来修复&4{value1}&c.'
+  NotEnoughFishingRod: '&c你需要一个鱼竿才能修复&4{value1}&c.'
+  NotEnoughCarrots: '&c你需要一个胡萝卜才能修复&4{value1}&c.'
+UpgradeMessages:
+  UpgradeSuccessful: '&2{value1} &a的等级已经提升.'
+  UpgradeCapReached: '&2{value1} &a的等级已经达到最大, 无法再次升级.'
+SellMessages:
+  SellSuccessful: '&a你出售了&2{value1}&a得到了&2{value2}枚硬币&a.'
+  UnableToSell: '&c你无法出售&2{value1}&c.'
+  NoItemInHand: '&c请将你要出售的物品拿在手中.'
+ItemType:
+  Tool:
+    Sword: 剑
+    Pickaxe: 镐
+    Axe: 斧
+    Spade: 铲
+    Hoe: 锄
+    Bow: 弓
+    Stick: 木棍
+    Blaze_Rod: 烈焰棒
+    String: 线
+  Armour:
+    Skull_Helmet: 头盔
+    Helmet: 头盔
+    Chestplate: 胸甲
+    Leggings: 护腿
+    Boots: 靴子
+Item:
+  Looted: '&b你获得了战利品：&6{value1}&b!'

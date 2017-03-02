@@ -1,0 +1,79 @@
+40bs:
+  Type: skeleton
+  Display: '&4领主:骷髅骑士&5[LV.40BOSS]'
+  Health: 6000
+  Damage: 30
+  Skills: 
+  - msg 0:'&c[战魂榜]&6史诗地下城刷&e【40级领主骷髅骑士】&9出现了，勇士们速速前往击杀，有几率获得40级粉装！' =100% 1
+  - teleport 20 <30% 1
+  - lightning 10:3 ~onTimer:40 <50% 1
+  - msg 20:'&dBOSS施展了血骑冲锋，10格范围内的玩家会持续掉血' =50% 1
+  Drops: 
+  - exp 5
+  - 40fzsp 1 0.1
+  - cqsj 1-5 1
+  - 40lw 1 0.2
+  - 40lt 1 0.2
+  - 40ly 1 0.2
+  - 40lk 1 0.2
+  - 40lx 1 0.2
+  - 40zw 1 0.05
+  - 40zt 1 0.05
+  - 40zy 1 0.05
+  - 40zk 1 0.05
+  - 40zx 1 0.05
+  - 40fw 1 0.001
+  - 40ft 1 0.003
+  - 40fy 1 0.003
+  - 40fk 1 0.003
+  - 40fx 1 0.003
+  Equipment: 
+  - jinkui:4
+  - jinjia:3  
+  - jinku:2 
+  - jinxue:1 
+  - zuanshijian:0 
+  Options: 
+    PreventLeashing: true 
+    PreventOtherDrops: true 
+    AlwaysShowName: true 
+    MaxCombatDistance: 5
+    MovementSpeed: 0.25
+    KnockbackResistance: 1 
+    FollowRange: 5 
+
+40jy:
+  Type: skeleton
+  Display: '&4兽王乌塔拉&5[LV.40精英]'
+  Health: 4000
+  Damage: 20
+  Skills: 
+  - teleport 20 <30% 1
+  Drops: 
+  - exp 5
+  - 40fzsp 1 0.01
+  - cqsj 1-5 1
+  - 40lw 1 0.2
+  - 40lt 1 0.2
+  - 40ly 1 0.2
+  - 40lk 1 0.2
+  - 40lx 1 0.2
+  - 40zw 1 0.05
+  - 40zt 1 0.05
+  - 40zy 1 0.05
+  - 40zk 1 0.05
+  - 40zx 1 0.05
+  Equipment: 
+  - tiekui:4
+  - tiejia:3  
+  - tieku:2 
+  - tiexue:1  
+  - tiejian:0 
+  Options: 
+    PreventLeashing: true 
+    PreventOtherDrops: true 
+    AlwaysShowName: true 
+    MaxCombatDistance: 25 
+    MovementSpeed: 0.2
+    KnockbackResistance: 1 
+    FollowRange: 5 

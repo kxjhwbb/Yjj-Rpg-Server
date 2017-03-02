@@ -1,0 +1,76 @@
+60bs:
+  Type: zombie
+  Display: '&d领主: 尼尔巴斯·格拉西亚&d[LV.60BOSS]'
+  Health: 10000
+  Damage: 40
+  Skills: 
+  - msg 0:'&c[战魂榜]&6史诗地下城刷&e【50级领主:尼尔巴斯·格拉西亚】&9出现了，勇士们速速前往击杀，有几率获得60级粉装！' =100% 1
+  - teleport 20 <20% 1
+  - lightning 10:4 ~onTimer:40 <50% 1
+  - msg 20:'&dBOSS施展了幻杀领域，10格范围内的玩家会持续掉血' =50% 1
+  Drops: 
+  - exp 5
+  - cqhj 1 1
+  - 60lw 1 0.5
+  - 60lt 1 0.5
+  - 60ly 1 0.5
+  - 60lk 1 0.5
+  - 60lx 1 0.5
+  - 60zw 1 0.01
+  - 60zt 1 0.03
+  - 60zy 1 0.03
+  - 60zk 1 0.03
+  - 60zx 1 0.03
+  - 60fw 1 0.001
+  - 60ft 1 0.001
+  - 60fy 1 0.001
+  - 60fk 1 0.001
+  - 60fx 1 0.001
+  Equipment: 
+  - jinkui:4
+  - jinjia:3  
+  - jinku:2 
+  - jinxue:1 
+  - zuanshijian:0 
+  Options: 
+    PreventLeashing: true 
+    PreventOtherDrops: true 
+    AlwaysShowName: true 
+    MaxCombatDistance: 5
+    MovementSpeed: 0.3
+    KnockbackResistance: 1 
+    FollowRange: 5 
+
+60jy:
+  Type: zombie
+  Display: '&4海贼.黑鳞莫贝尼&c[LV.60守卫]'
+  Health: 7000
+  Damage: 25
+  Skills: 
+  Drops: 
+  - exp 3
+  - cqsj 1-20 1
+  - 60lw 1 0.5
+  - 60lt 1 0.7
+  - 60ly 1 0.7
+  - 60lk 1 0.7
+  - 60lx 1 0.7
+  - 60zw 1 0.01
+  - 60zt 1 0.01
+  - 60zy 1 0.01
+  - 60zk 1 0.01
+  - 60zx 1 0.01
+  Equipment: 
+  - tiekui:4
+  - tiejia:3  
+  - tieku:2 
+  - tiexue:1  
+  - tiejian:0 
+  Options: 
+    PreventLeashing: true 
+    PreventOtherDrops: true 
+    AlwaysShowName: true 
+    MaxCombatDistance: 25 
+    MovementSpeed: 0.3
+    KnockbackResistance: 1 
+    FollowRange: 5 

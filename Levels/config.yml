@@ -1,0 +1,17 @@
+chat:
+  activate: 'true'
+  color: f
+  prefix: '[&6�ȼ� &level]'
+list:
+  activate: 'true'
+  color: c
+  prefix: '[&level]'
+message:
+  global:
+    activate: 'false'
+    color: f
+    message: '&name has reached a new Level!'
+  private:
+    activate: 'false'
+    color: f
+    message: Level Up!

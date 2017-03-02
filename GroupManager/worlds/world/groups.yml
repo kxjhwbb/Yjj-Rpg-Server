@@ -1,0 +1,132 @@
+# Group inheritance
+#
+# Any inherited groups prefixed with a g: are global groups
+# and are inherited from the GlobalGroups.yml.
+#
+# Groups without the g: prefix are groups local to this world
+# and are defined in the this groups.yml file.
+#
+# Local group inheritances define your promotion tree when using 'manpromote/mandemote'
+
+groups:
+  Moderator:
+    default: false
+    permissions: []
+    inheritance:
+    - builder
+    - g:groupmanager_moderator
+    - g:bukkit_moderator
+    - g:essentials_moderator
+    - g:towny_moderator
+    - g:vanish_moderator
+    info:
+      build: true
+      prefix: '&5'
+      suffix: ''
+  Owner:
+    default: false
+    permissions:
+    - -vanish.*
+    - '*'
+    inheritance:
+    - admin
+    info:
+      build: true
+      prefix: '&4'
+      suffix: ''
+  Builder:
+    default: true
+    permissions:
+    - -essentials.me
+    - -essentials.afk
+    - -essentials.powertool
+    - -essentials.sethome
+    - -essentials.home
+    - -essentials.tpahere
+    - -essentials.kit
+    - -essentials.balancetop
+    - -essentials.nick
+    - -essentials.hat
+    - -essentials.head
+    - -essentials.chat.color
+    - -essentials.say
+    - -essentials.warp.list
+    - -essentials.mail
+    - -essentials.suicide
+    - -essentials.tpa
+    - -essentials.list
+    - antichat.chat
+    - automessage.receive.regular
+    - BossShop.open
+    - cc.pvp
+    - chairs.sit
+    - chestcommands.command.open
+    - chestcommands.command.open.fenlei.yml
+    - chestcommands.item.example.yml
+    - chestcommands.open.example.yml
+    - chestcommands.open.kf.yml
+    - Clans.use
+    - essentials.build
+    - essentials.spawn
+    - essentials.tp
+    - essentials.warp
+    - farmePritect.place
+    - framePortect.info.*
+    - framePortect.place.*
+    - framePortect.protect.*
+    - globalmarket.create
+    - globalmarket.quicklist
+    - globalmarket.quickmail
+    - level.user
+    - levels.user
+    - nocheatplus.checks.combined.improbable
+    - nocheatplus.checks.inventory.fastclick
+    - Permission.Vip
+    - PlayerPoints.me
+    - plotme.limit.1
+    - pvptoggle.self.toggle
+    - qh.use
+    - quickshop.use
+    - quicktrade.toggle
+    - quicktrade.trade.command
+    - quicktrade.trade.rightclick
+    - residence.create
+    - residence.select
+    - ScriptBlock.interact.use
+    - ScriptBlock.walk.use
+    - treasurechest.access
+    inheritance:
+    - default
+    - g:essentials_builder
+    - g:towny_builder
+    info:
+      build: true
+      prefix: '[&5一坨翔&7]'
+      suffix: ''
+  Admin:
+    default: false
+    permissions: []
+    inheritance:
+    - moderator
+    - g:groupmanager_admin
+    - g:bukkit_admin
+    - g:essentials_admin
+    - g:towny_admin
+    - g:vanish_admin
+    info:
+      build: true
+      prefix: '&c'
+      suffix: ''
+  Default:
+    default: false
+    permissions:
+    - -bukkit.command.kill
+    inheritance:
+    - g:groupmanager_default
+    - g:bukkit_default
+    - g:essentials_default
+    - g:towny_default
+    info:
+      build: false
+      prefix: '&e'
+      suffix: ''

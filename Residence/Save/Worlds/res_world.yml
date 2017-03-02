@@ -1,0 +1,127 @@
+Version: 1
+Seed: 7920041569535757167
+Residences:
+  cs:
+    LeaveMessage: Now leaving %residence.
+    StoredMoney: 0
+    Subzones: {}
+    EnterMessage: '欢迎来到地下勇者RPG副本服。祝您游戏愉快。 '
+    Permissions:
+      PlayerFlags:
+        max_joine:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      GroupFlags: {}
+      AreaFlags:
+        container: false
+        ignite: false
+        build: false
+        piston: false
+        firespread: false
+        use: false
+        pvp: false
+        tnt: false
+        creeper: false
+        flow: false
+      Owner: Max_Joine
+      World: world
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: -2006
+        Y1: 9
+        Z1: -15630
+        X2: -2019
+        Y2: 3
+        Z2: -15645
+  zc:
+    LeaveMessage: Now leaving %residence.
+    StoredMoney: 0
+    Subzones:
+      dixiacheng:
+        LeaveMessage: Now leaving %residence.
+        StoredMoney: 0
+        Subzones: {}
+        EnterMessage: '您已进入史诗级地下城区域，此处为危险区，请小心有人攻击 '
+        Permissions:
+          PlayerFlags:
+            max_joine:
+              container: true
+              ignite: true
+              move: true
+              build: true
+              use: true
+          GroupFlags: {}
+          AreaFlags:
+            container: false
+            ignite: false
+            build: false
+            piston: false
+            firespread: false
+            use: false
+            pvp: true
+            tnt: false
+            creeper: false
+            flow: false
+          Owner: Max_Joine
+          World: world
+        BlackList:
+          Type: BLACKLIST
+          ItemList: []
+        IgnoreList:
+          Type: IGNORELIST
+          ItemList: []
+        Areas:
+          dixiacheng:
+            X1: 2668
+            Y1: 198
+            Z1: 994
+            X2: 1946
+            Y2: 1
+            Z2: 270
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        max_joine:
+          container: true
+          ignite: true
+          move: true
+          build: true
+          use: true
+      GroupFlags: {}
+      AreaFlags:
+        container: true
+        ignite: false
+        build: false
+        piston: false
+        firespread: false
+        use: true
+        pvp: false
+        tnt: false
+        creeper: false
+        flow: false
+        tp: true
+      Owner: Max_Joine
+      World: world
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: 3000
+        Y1: 200
+        Z1: 2999
+        X2: -3000
+        Y2: 1
+        Z2: -3000

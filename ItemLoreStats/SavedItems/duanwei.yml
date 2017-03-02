@@ -1,0 +1,11 @@
+Item:
+  ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §4100段位点兑换券
+    lore:
+    - §6前往钱庄老板处兑换段位灵晶
+    - §6
+    - §6段位灵晶右键使用即可获得100段位值

@@ -1,0 +1,6 @@
+# AntiFlightOnWater by andylizi
+checkInterval: 5
+kickReason: '&c你不能行走在非固体方块之上!'
+broadcast:
+  enable: true
+  kickMessage: '&6玩家 &c%player&6 因为试图在非固体方块上行走而被踢出,请以此为戒!'

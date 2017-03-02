@@ -1,0 +1,21 @@
+60jy:
+  MobName: 60jy
+  World: world
+  X: 2476
+  Y: 112
+  Z: 846
+  Radius: 0
+  UseTimer: true
+  MaxMobs: 1
+  MobLevel: 1
+  MobsPerSpawn: 1
+  Cooldown: 300
+  CooldownTimer: 0
+  Warmup: 4
+  WarmupTimer: 0
+  LeashRange: 100
+  HealOnLeash: false
+  ShowFlames: false
+  Conditions: []
+  AssociatedMobs:
+  - 422286ed-a261-2f09-4472-c63bb70898cc

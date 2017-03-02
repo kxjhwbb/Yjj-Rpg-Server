@@ -1,0 +1,21 @@
+60bs1:
+  MobName: 60bs
+  World: world
+  X: 2424
+  Y: 121
+  Z: 797
+  Radius: 0
+  UseTimer: true
+  MaxMobs: 1
+  MobLevel: 1
+  MobsPerSpawn: 1
+  Cooldown: 600
+  CooldownTimer: 0
+  Warmup: 4
+  WarmupTimer: 0
+  LeashRange: 1000
+  HealOnLeash: false
+  ShowFlames: false
+  Conditions: []
+  AssociatedMobs:
+  - 3324e4ac-16fb-7433-fbf6-d9b5f9449cc7

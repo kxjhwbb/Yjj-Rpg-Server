@@ -1,0 +1,15 @@
+broadcast:
+  pre: '&d[服务器娘] &9系统保存地图中'
+  post: '&d[服务器娘] &9地图保存完毕'
+broadcastbackup:
+  pre: '&d[服务器娘] &9自动备存中'
+  post: '&d[服务器娘] &9自动备存完毕'
+broadcastpurge:
+  pre: '&d[服务器娘] &9Purge功能刷新中'
+  post: '&d[服务器娘] &9Purge功能刷新完毕'
+insufficentpermissions: '&d[服务器娘] &c你没有权限使用此指令.'
+autorestart:
+  restarting: '&d[服务器娘] &9服务器重启中'
+  countdown: '&d[服务器娘] &9服务器会在{SECONDS}秒后重启'
+worldregen:
+  kickmessage: '&d插件重载完毕 汉化-Ye_Zhi '

@@ -1,0 +1,114 @@
+wanjushibing:
+  Type: skeleton
+  Display: '&6雷鸣之玩具士兵&9[LV.30]'
+  Health: 200
+  Damage: 6
+  Skills: 
+  Drops: 
+  - cqsj 1 0.3
+  - lsxjt 1 0.3
+  - gjrhj 1 0.3
+  - lmfxwjhx 1 0.1
+  - xynsdzf 1 0.1
+  - 30jlw 1 0.1
+  - 30jlt 1 0.1
+  - 30jly 1 0.1
+  - 30jlk 1 0.1
+  - 30jlx 1 0.1
+  Equipment: 
+  - pikui:4
+  - pijia:3  
+  - piku:2 
+  - pixue:1  
+  - jinjian:0  
+  Options: 
+    PreventLeashing: true 
+    PreventOtherDrops: true 
+    AlwaysShowName: true 
+    MaxCombatDistance: 5
+    MovementSpeed: 0.2
+    KnockbackResistance: 1 
+    FollowRange: 5 
+
+wanjuhuwei:
+  Type: skeleton
+  Display: '&6雷鸣之玩具护卫&4[LV.30精英]'
+  Health: 500
+  Damage: 7
+  Skills: 
+  Drops: 
+  - exp 3
+  - cqsj 1 0.3
+  - lsxjt 1 0.3
+  - gjrhj 1 0.3
+  - lmfxwjhx 1 0.3
+  - xynsdzf 1 0.2
+  - 30lw 1 0.1
+  - 30lt 1 0.1
+  - 30ly 1 0.1
+  - 30lk 1 0.1
+  - 30lx 1 0.1
+  - 30zw 1 0.02
+  - 30zt 1 0.02
+  - 30zy 1 0.02
+  - 30zk 1 0.02
+  - 30zx 1 0.02
+  Equipment: 
+  - tiekui:4
+  - tiejia:3  
+  - tieku:2 
+  - tiexue:1  
+  - tiejian:0 
+  Options: 
+    PreventLeashing: true 
+    PreventOtherDrops: true 
+    AlwaysShowName: true 
+    MaxCombatDistance: 25 
+    MovementSpeed: 0.3
+    KnockbackResistance: 1 
+    FollowRange: 5 
+
+wanjuzhaohuanshi:
+  Type: zombie
+  Display: '&4雷鸣玩具召唤师[LV.30BOSS]'
+  Health: 3500
+  Damage: 6
+  Skills: 
+  - msg 0:'&c[战魂榜]&630级副本雷鸣废墟&e【玩具召唤师】&9出现了，勇士们速速前往击杀，有几率获得30级粉装！' =100% 1
+  Drops: 
+  - exp 4
+  - cqsj 1-10 1
+  - cqsj 1-10 1
+  - lsxjt 1 1
+  - gjrhj 1 1
+  - lmfxwjhx 1 0.5
+  - xynsdzf 1 0.5
+  - 30lw 1 0.2
+  - 30lt 1 0.2
+  - 30ly 1 0.2
+  - 30lk 1 0.2
+  - 30lx 1 0.2
+  - 30zw 1 0.04
+  - 30zt 1 0.04
+  - 30zy 1 0.04
+  - 30zk 1 0.04
+  - 30zx 1 0.04
+  - 30fw 1 0.001
+  - 30ft 1 0.001
+  - 30fy 1 0.001
+  - 30fk 1 0.001
+  - 30fx 1 0.001
+  Equipment: 
+  - jinkui:4
+  - jinjia:3  
+  - jinku:2 
+  - jinxue:1 
+  - zuanshijian:0 
+  Options: 
+    PreventLeashing: true 
+    PreventOtherDrops: true 
+    AlwaysShowName: true 
+    MaxCombatDistance: 25 
+    MovementSpeed: 0.3
+    KnockbackResistance: 1 
+    FollowRange: 5 

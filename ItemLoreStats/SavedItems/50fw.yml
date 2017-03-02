@@ -1,0 +1,29 @@
+Item:
+  ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND_SWORD
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §d裂创心灵之刃
+    lore:
+    - §6品级：§d粉装
+    - §6[基础属性]
+    - §d●攻击力：+55-60
+    - §6[附加属性]
+    - §d●嗜血:+10%
+    - §d●暴击几率:+12%
+    - §d●寒冰攻击:+10%
+    - §d●烈焰攻击:+10%
+    - §d●剧毒攻击:+10%
+    - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+    - §d等级属性：50级
+    - §d无级别属性：0级即可佩戴
+    - §6⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙⊙
+    - '§a§e§f§a耐久: 无限'
+    - §6[女神眷顾]
+    - ''
+    - §e[§a无§6上§b神§d武§e]
+    - §a无§e等§b级§c限§d制
+    - §4[提示]装备遗失概不负责，请妥善保管
+    enchants:
+      ARROW_INFINITE: 1

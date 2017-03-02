@@ -1,0 +1,20 @@
+20bs2:
+  MobName: kulouwang
+  World: world
+  X: 1218
+  Y: 17
+  Z: -694
+  Radius: 0
+  UseTimer: true
+  MaxMobs: 1
+  MobLevel: 1
+  MobsPerSpawn: 1
+  Cooldown: 600
+  CooldownTimer: 0
+  Warmup: 4
+  WarmupTimer: 0
+  LeashRange: 32
+  HealOnLeash: false
+  ShowFlames: false
+  Conditions: []
+  AssociatedMobs: []

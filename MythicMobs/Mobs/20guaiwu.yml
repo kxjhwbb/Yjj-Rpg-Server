@@ -1,0 +1,113 @@
+lieyankulou:
+  Type: skeleton
+  Display: '&b烈焰骷髅&9[LV.20]'
+  Health: 120
+  Damage: 3
+  Skills: 
+  Drops: 
+  - cqsj 1 0.3
+  - hsxjt 1 0.3
+  - zjrhj 1 0.3
+  - lyzdfz 1 0.1
+  - xynsdzf 1 0.05
+  - 20jlw 1 0.1
+  - 20jlt 1 0.1
+  - 20jly 1 0.1
+  - 20jlk 1 0.1
+  - 20jlx 1 0.1
+  Equipment: 
+  - tiekui:4
+  - tiejia:3  
+  - tieku:2 
+  - tiexue:1  
+  - jian:0  
+  Options: 
+    PreventLeashing: true 
+    PreventOtherDrops: true 
+    AlwaysShowName: true 
+    MaxCombatDistance: 25 
+    MovementSpeed: 0.2
+    KnockbackResistance: 1 
+    FollowRange: 5 
+
+kulouzhanjiang:
+  Type: skeleton
+  Display: '&b烈焰骷髅战将&4[LV.精英]'
+  Health: 400
+  Damage: 5
+  Skills: 
+  Drops: 
+  - exp 2
+  - cqsj 1 0.5
+  - hsxjt 1 0.5
+  - zjrhj 1 0.3
+  - lyzdfz 1 0.3
+  - xynsdzf 1 0.1
+  - 20lw 1 0.1
+  - 20lt 1 0.1
+  - 20ly 1 0.1
+  - 20lk 1 0.1
+  - 20lx 1 0.1
+  - 20zw 1 0.03
+  - 20zt 1 0.03
+  - 20zy 1 0.03
+  - 20zk 1 0.03
+  - 20zx 1 0.03
+  Equipment: 
+  - tiekui:4
+  - tiejia:3  
+  - tieku:2 
+  - tiexue:1  
+  - jian:0  
+  Options: 
+    PreventLeashing: true 
+    PreventOtherDrops: true 
+    AlwaysShowName: true 
+    MaxCombatDistance: 25 
+    MovementSpeed: 0.3
+    KnockbackResistance: 1 
+    FollowRange: 5 
+
+kulouwang:
+  Type: witherskeleton
+  Display: '&b烈焰骷髅王&4[LV.boss]'
+  Health: 2500
+  Damage: 6
+  Skills: 
+  - msg 0:'&c[战魂榜]&920级副本烈焰岛&e【骷髅王】&9出现了，勇士们速速前往击杀，有几率获得20级粉装！' =100% 1
+  Drops: 
+  - exp 4
+  - cqsj 1 1
+  - hsxjt 1 1
+  - zjrhj 1 1
+  - lyzdfz 1 1
+  - xynsdzf 1 0.5
+  - 20lw 1 0.2
+  - 20lt 1 0.2
+  - 20ly 1 0.2
+  - 20lk 1 0.2
+  - 20lx 1 0.2
+  - 20zw 1 0.05
+  - 20zt 1 0.05
+  - 20zy 1 0.05
+  - 20zk 1 0.05
+  - 20zx 1 0.05
+  - 20fw 1 0.01
+  - 20ft 1 0.01
+  - 20fy 1 0.01
+  - 20fk 1 0.01
+  - 20fx 1 0.01
+  Equipment: 
+  - tiekui:4
+  - tiejia:3  
+  - tieku:2 
+  - tiexue:1 
+  - jian:0 
+  Options: 
+    PreventLeashing: true 
+    PreventOtherDrops: true 
+    AlwaysShowName: true 
+    MaxCombatDistance: 25 
+    MovementSpeed: 0.3
+    KnockbackResistance: 1 
+    FollowRange: 5 

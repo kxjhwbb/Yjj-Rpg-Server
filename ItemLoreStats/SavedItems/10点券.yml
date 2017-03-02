@@ -1,0 +1,16 @@
+Item:
+  ==: org.bukkit.inventory.ItemStack
+  type: NETHER_STAR
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §210元点券
+    lore:
+    - §a10元人民币=10点券
+    - §a点券可用来在赞助商人兑换东西
+    - §6【赞助付款方式】
+    - §b支付宝，财付通，微信，红包，话费充值卡，网银支付
+    - §4【Q币支付问题】§a100Q币=80点券 因为Q币回收商价格很低
+    - §eQ币以及Q币充值卡支付请联系腐竹QQ：798671448
+    - §e【其他方式支付请输入下方网站充值】
+    - §d§lwww.917ka.com/list/yZ9c

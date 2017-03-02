@@ -1,0 +1,796 @@
+users:
+  '123125156':
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  '1421':
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6<勇者♂&b子爵&a'
+  '172839':
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  '23366663454':
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  23a1sdasd:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  '319829723':
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  '3638':
+    group: Builder
+    subgroups: []
+    permissions:
+    - colorchat.toggle
+    info:
+      prefix: §4『§d三级§6赞助§4』§e⊙小有财富⊙§a
+  '734069776':
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6<勇者♂&b子爵&a'
+  _Smily:
+    group: Builder
+    subgroups: []
+    permissions:
+    - plotme.use
+    info:
+      suffix: '&6<勇者♂&b子爵&a'
+  a320899342:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  A_ken:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  AcUntil:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  aingsei:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  anybody:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  AV8D:
+    group: Builder
+    subgroups: []
+    permissions:
+    - coreprotect.*
+  benhuang:
+    group: Builder
+    subgroups: []
+    permissions:
+    - colorchat.toggle
+    info:
+      prefix: '&a'
+      suffix: '&a'
+  cccmccccmc:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  chang_guei_fang:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  ChenQi_666:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  CjDragon:
+    group: Builder
+    subgroups: []
+    permissions:
+    - plotme.use
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  coop:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  cpy1014:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  dadadadadada:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  daikeke:
+    group: Builder
+    subgroups: []
+    permissions:
+    - plotme.use
+    info:
+      suffix: '&6<勇者♂&b子爵&a'
+  Dan_Kiead:
+    group: Builder
+    subgroups: []
+    permissions:
+    - colorchat.toggle
+    info:
+      prefix: §4『§d三级§6赞助§4』§e⊙小有财富⊙§a
+      suffix: '&6≮勇者♂&a战将≯'
+  demaxiya123:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  Dragonsheart:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  dsadw:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  dsfsfds:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  DY_HG:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  Fairy_Naruto:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  Fiona_rose:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  FuHu:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  Ghost:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  Gwenda:
+    group: Builder
+    subgroups: []
+    permissions:
+    - colorchat.toggle
+    - plotme.use
+    info:
+      prefix: '&4『&4至尊&6赞助商&4』&e⊙超级土豪⊙&a'
+      suffix: '&6<勇者♂&b子爵&a'
+  hai_zei_owo:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  hao_ws:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  hcj:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  hfcqq:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  HuiMeng__:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  Huo_haoyu:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  hutingting:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  huyiming:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  hxz0202:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  james:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  jing_w:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  Jreen:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  K_Pown:
+    group: Builder
+    subgroups: []
+    permissions:
+    - plotme.use
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  K_xiaobai:
+    group: Builder
+    subgroups: []
+    permissions:
+    - colorchat.toggle
+    - plotme.use
+    info:
+      prefix: §4『§d三级§6赞助§4』§e⊙小有财富⊙§a
+      suffix: '&6≮勇者♂&a战将≯'
+  KengDie159:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  keyaoye:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  kft:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  KissXC:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  kuang_bing:
+    group: Builder
+    subgroups: []
+    permissions:
+    - colorchat.toggle
+    - plotme.use
+    info:
+      prefix: §4『§e二级§6赞助§4』§a
+  ling_huang:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  lingxiao_ar:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  lingyu__dada:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  liutong110:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  Long_huncc:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  luzheli:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  Max_Joine:
+    group: Builder
+    subgroups: []
+    permissions:
+    - colorchat.toggle
+    - essentials.warp.list
+    - levels.user
+    - plotme.use
+    info:
+      prefix: §4『§4至尊§6赞助商§4』§e⊙超级土豪⊙§a
+      pregix: 111111
+      suffix: '&6<勇者♂&b子爵&a'
+  MAX_Love:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  MC_dou_bi:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  mcexp:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  MiGhTyBak:
+    group: Builder
+    subgroups: []
+    permissions:
+    - colorchat.toggle
+    - plotme.use
+    info:
+      prefix: §4『§d三级§6赞助§4』§e⊙小有财富⊙§a
+      suffix: '&6≮勇者♂&a战将≯'
+  mimixiaorou:
+    group: Builder
+    subgroups: []
+    permissions:
+    - plotme.use
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  Ming_Tian_:
+    group: Builder
+    subgroups: []
+    permissions:
+    - colorchat.toggle
+    info:
+      prefix: §4『§d三级§6赞助§4』§e⊙小有财富⊙§a
+  mo_mo0w0:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  Mr_BOOM:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  naisite:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  No_009:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  ounberon:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  p1122331231:
+    group: Builder
+    subgroups: []
+    permissions:
+    - plotme.use
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  ppc:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  profundity:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  Q1684846731:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  qazfghryt:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  qinglongbang:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  qiq:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  qq2731567232:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  qq2739477859:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  qwertyuj:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  qwjok:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  rain_redblue:
+    group: Builder
+    subgroups: []
+    permissions:
+    - plotme.use
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  Ranchen_white:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&e三生三世阁阁主—染尘'
+      suffix: '&6≮勇者♂&a战将≯'
+  res_js:
+    group: Builder
+    subgroups: []
+    permissions:
+    - plotme.use
+  Rir_ctx:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&9『三&4生&e三&b世&4副&a阁&6主丶&5屎爷』&a'
+  rong_yao:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  rty77521:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  s_j_k:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  Small_Xin_:
+    group: Builder
+    subgroups: []
+    permissions:
+    - plotme.use
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  Sop97:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  spq9654:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  sssaad:
+    group: Builder
+    subgroups: []
+    permissions:
+    - plotme.use
+  SYF888:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  Tian_Tuo:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  tjss:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  tongren_dada:
+    group: Builder
+    subgroups: []
+    permissions:
+    - plotme.use
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  TwT_T:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  txqq:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  UndeR_TaRer:
+    group: Builder
+    subgroups: []
+    permissions:
+    - plotme.use
+    info:
+      suffix: '&6<勇者♂&b子爵&a'
+  vooo000:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  vvav:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  wcndymlgb:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  wdsi:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  Wei_Wu_Baqi:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  Wicked_Prince:
+    group: Builder
+    subgroups: []
+    permissions:
+    - colorchat.toggle
+    info:
+      prefix: §4『§e二级§6赞助§4』§a
+  wswwx12345:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  wu_fei:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  wwhh:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  xiao_lin_gei:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  xiao_xiao_cm:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  xiaoleangkuaile:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  xiaolu_jun:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  XQzc:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  XYfen_lie:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  yan_me:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  ye_se_:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      prefix: §4『§a一级§6赞助§4』§a
+      suffix: '&6≮勇者♂&a战将≯'
+  YesuDaDa:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  yitiankong:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  YRX_MAO:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  zhan_shang:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  zhangwa:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  zhasf:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  zhoubing:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  Zombie_King:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'
+  zzhzjh000:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6≮勇者♂&a战将≯'

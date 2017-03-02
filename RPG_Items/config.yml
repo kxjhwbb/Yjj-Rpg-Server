@@ -1,0 +1,48 @@
+# 是否自动下载语言文件
+localeDownload: true
+# 是否自动更新(建议填false)
+autoupdate: false
+# 是否为玩家自动使用其客户端语言
+usePlayerLocale: true
+# 默认语言文件
+defaultLanguage: 'zh_CN'
+# 是否在掉落物上显示rpgitem名称
+showItemNameOnDrops: true
+# 是否阻止玩家对rpgitem使用ess的hat指令
+preventEssentialsHat: true
+# 每把rpgitem是否需要单独的权限才能give
+# 若设置为true, 则需要 rpgitem.give.物品名称 权限才能使用give
+# 若设置为false, 则需要 rpgitem 权限才能使用give
+give-perms: true
+# 无权限使用便自动回到背包(如果无空间则掉落至地面)
+returnIfNoPerm: true
+linesPerPage: 15
+# 右键释放技能消耗耐久
+# 0 不消耗
+# 1 每次消耗1点
+# 2 每次消耗成功释放的技能数量
+rightClickPowerReduceDurabilityMode: 1
+keep:
+    # 是否允许rpgitem默认保存lore
+    # 每件rpgitem可以有单独的开关来覆盖此设置
+    lore: true
+    # 是否允许rpgitem默认保存附魔
+    # 每件rpgitem可以有单独的开关来覆盖此设置
+    enchant: true
+# 默认说明文字
+defaults:
+  hand: 'One handed'
+  sword: 'Sword'
+  damage: 'Damage'
+  armour: 'Armour'
+  armourNum: 'Armour'
+# 是否启用对以下插件的支持
+support:
+  worldguard: false
+  residence: false
+  plotme: false
+  pvparena: false
+  mobarena: false
+  towny: false
+  minigames: false
+  ultimatearena: false

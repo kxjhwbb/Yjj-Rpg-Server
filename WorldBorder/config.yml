@@ -1,0 +1,34 @@
+cfg-version: 9
+message: '&cYou have reached the edge of this world.'
+round-border: true
+debug-mode: false
+whoosh-effect: false
+portal-redirection: true
+knock-back-dist: 3.0
+timer-delay-ticks: 5
+remount-delay-ticks: 0
+dynmap-border-enabled: true
+dynmap-border-message: The border of the world.
+player-killed-bad-spawn: false
+deny-enderpearl: false
+fill-autosave-frequency: 30
+bypass-list: []
+worlds:
+  plotworld:
+    x: 0.3844842974331839
+    z: 0.5393909393528218
+    radiusX: 2500
+    radiusZ: 2500
+    wrapping: false
+  world:
+    x: -1148.0787705156622
+    z: -5680.521090052794
+    radiusX: 10000000
+    radiusZ: 10000000
+    wrapping: false
+  fb:
+    x: -0.06830605686333246
+    z: 0.4696037526148432
+    radiusX: 4000
+    radiusZ: 4000
+    wrapping: false

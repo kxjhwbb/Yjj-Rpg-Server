@@ -1,0 +1,39 @@
+world:
+    787,5,-169:
+    - Author:chendian/Builder
+    - '@bypass /market'
+    807,5,-143:
+    - Author:Max_Joine/Builder
+    - '@bypass /bs 点券商店'
+    - '@player 点击网站打开充值网站>>> http://www.mcrmb.com/cz/4445 <<<'
+    859,4,-144:
+    - Author:Max_Joine/Builder
+    - '@bypass /bs 点券商店'
+    725,7,-156:
+    - Author:AV8D/Builder
+    - '@bypass /xp -1l'
+    725,7,-155:
+    - Author:AV8D/Builder
+    - '@bypass /xp 1l'
+    725,7,-154:
+    - Author:AV8D/Builder
+    - '@bypass /eco give <player> 1000'
+    725,7,-153:
+    - Author:AV8D/Builder
+    - '@bypass /points give <player> 100'
+plotworld:
+    -1,65,0:
+    - Author:Max_Joine/Builder
+    - '@bypass /plotme home'
+    1,65,0:
+    - Author:Max_Joine/Builder
+    - $cost:20000
+    - '@bypass /manuaddp <player> plotme.use'
+    - '@command /plotme auto'
+    - '@bypass /give <player> 54 1'
+    - '@bypass /say 玩家<player>使用20000游戏币购买了一个仓库。'
+    0,65,1:
+    - Author:Max_Joine/Builder
+    - $cost:10000
+    - '@bypass /give <player> 54 1'
+    - '@bypass /say 玩家<player>使用10000游戏币购买了一个仓库箱子'

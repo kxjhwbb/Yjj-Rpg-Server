@@ -1,0 +1,21 @@
+'309':
+  MobName: wanjushibing
+  World: world
+  X: 937
+  Y: 4
+  Z: 819
+  Radius: 0
+  UseTimer: true
+  MaxMobs: 1
+  MobLevel: 1
+  MobsPerSpawn: 1
+  Cooldown: 10
+  CooldownTimer: 0
+  Warmup: 4
+  WarmupTimer: 0
+  LeashRange: 10
+  HealOnLeash: false
+  ShowFlames: false
+  Conditions: []
+  AssociatedMobs:
+  - 576cffb4-1b1c-a10f-1e21-71a3f52a0d8e
